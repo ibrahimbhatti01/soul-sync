@@ -1,0 +1,1262 @@
+{
+  "meta": {
+    "version": "1.0",
+    "created_by": "Ibrahim",
+    "date_created": "2025-10-22T00:00:00Z",
+    "default_language": "en",
+    "source_reference": "quran.com (seed), curated tafsir notes",
+    "license": "Check individual translator licenses"
+  },
+  "moods": {
+    "sad": [
+      {
+        "id": "94:5_v1",
+        "surah": 94,
+        "ayah": 5,
+        "key": "94:5",
+        "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "transliteration": "Fa-inna ma'al-'usri yusra",
+        "translation_en": {
+          "text": "So, surely with hardship comes ease.",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "بے شک مشکل کے ساتھ آسانی ہے۔",
+          "translator": "General Urdu translations (e.g., Fateh Muhammad Jalandhari / common Urdu renderings)"
+        },
+        "short_context": "A concise promise that hardship is accompanied by relief; often recited to provide immediate hope during distress.",
+        "tafsir_snippet": "This phrase (part of Surah ash-Sharh) emphatically reassures believers that every difficulty is paired with ease. Classical tafsir explains that the repetition stresses certainty — ease follows hardship and may come in stages; the verse comforts and reduces despair during trials.",
+        "tafsir_link": "https://quran.com/ash-sharh/5-6/tafsirs",
+        "audio_url": null,
+        "tags": ["comfort", "hope", "patience", "ease-after-hardship"],
+        "suitability_notes": "Highly suitable as an immediate comforting reminder for sadness/low mood; safe to display with short tafsir link.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator's license"
+      },
+
+      {
+        "id": "2:286_v1",
+        "surah": 2,
+        "ayah": 286,
+        "key": "2:286",
+        "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ",
+        "transliteration": "La yukallifu Allahu nafsan illa wus'aha; laha ma kasabat wa 'alayha ma iktasabat",
+        "translation_en": {
+          "text": "Allah does not burden a soul beyond that it can bear. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned.",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "اللہ کسی جان پر اس کی طاقت سے زیادہ بوجھ نہیں ڈالتا۔",
+          "translator": "Common Urdu renderings (e.g., Fateh Muhammad Jalandhari)"
+        },
+        "short_context": "A consolatory verse (end of Surah Al-Baqarah) reassuring that divine tests are within human capacity — used to relieve guilt and hopelessness.",
+        "tafsir_snippet": "Classical tafsir explains this as assurance that God does not demand what is beyond human capacity; the verse appears in a concluding supplication and balances responsibility with mercy, reducing anxiety about one’s limits.",
+        "tafsir_link": "https://quran.com/2/286/tafsirs",
+        "audio_url": null,
+        "tags": ["capacity", "mercy", "responsibility", "reassurance"],
+        "suitability_notes": "Strongly suitable for low-mood and helplessness; include the tafsir link because the verse sits in a supplication context.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator's license"
+      },
+
+      {
+        "id": "39:53_v1",
+        "surah": 39,
+        "ayah": 53,
+        "key": "39:53",
+        "arabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ الْغَفُورُ الرَّحِيمُ",
+        "transliteration": "Qul ya 'ibadiyalladhina asrafu 'ala anfusihim la taqnatu min rahmatillah; inna Allaha yaghfiru adh-dhunuba jami'a; innahu huwa al-Ghafur ar-Rahim",
+        "translation_en": {
+          "text": "Say, \"O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.\"",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "کہہ دو کہ اے میرے بندو جنہوں نے اپنی جانوں پر زیادتی کی ہے! اللہ کی رحمت سے مایوس نہ ہونا۔ بے شک اللہ سارے گناہوں کو معاف کر دیتا ہے۔",
+          "translator": "Common Urdu renderings (e.g., Fateh Muhammad Jalandhari / other Urdu translators)"
+        },
+        "short_context": "A powerful hope-giving verse calling those weighed down by guilt to not despair — central for lifting shame and depressive self-blame.",
+        "tafsir_snippet": "Tafsir cites historical narrations showing the Prophet told people to convey this message: Allah’s mercy is vast; repentance and hope are emphasized. This verse directly counters despair and is often recommended to those feeling worthless or overwhelmed by guilt.",
+        "tafsir_link": "https://quran.com/39/53/tafsirs",
+        "audio_url": null,
+        "tags": ["hope", "forgiveness", "mercy", "repentance"],
+        "suitability_notes": "Very suitable for sadness tied to guilt/shame; include tafsir link and a short prompt encouraging reading full context for repentance guidance.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator's license"
+      },
+
+      {
+        "id": "3:139_v1",
+        "surah": 3,
+        "ayah": 139,
+        "key": "3:139",
+        "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+        "transliteration": "Wa la tahinu wa la tahzanu wa antumu al-a'lawna in kuntum mu'mineen",
+        "translation_en": {
+          "text": "So do not lose heart and do not grieve, for you will be superior if you are [true] believers.",
+          "translator": "Sahih International (paraphrased)"
+        },
+        "translation_ur": {
+          "text": "پس نہ کمزور ہو اور نہ غمگین ہو؛ بلکہ اگر تم مومنین ہو تو تم غالب رہو گے۔",
+          "translator": "Common Urdu renderings"
+        },
+        "short_context": "An exhortation during the aftermath of trials (context: believers faced difficulties) reminding believers not to despair — encourages resilience and perspective.",
+        "tafsir_snippet": "Tafsir notes this verse exhorts the believers to remain steadfast and not to despair after setbacks; its practical point is to keep morale and remind believers of spiritual standing that supports resilience.",
+        "tafsir_link": "https://quran.com/3/139/tafsirs",
+        "audio_url": null,
+        "tags": ["resilience", "encouragement", "faith", "perseverance"],
+        "suitability_notes": "Good for reactive sadness and morale drop; include short contextual note showing this was addressed to believers after hardship.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator's license"
+      },
+
+      {
+        "id": "41:30_v1",
+        "surah": 41,
+        "ayah": 30,
+        "key": "41:30",
+        "arabic": "إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+        "transliteration": "Inna alladhina qaloo rabbuna Allahu thumma istaqamu fala khawfun 'alayhim wa la hum yahzanoon",
+        "translation_en": {
+          "text": "Indeed, those who have said, \"Our Lord is Allah\" and then remained on a right course — the angels will descend upon them, [saying], \"Do not fear and do not grieve\" —",
+          "translator": "Sahih International (condensed)"
+        },
+        "translation_ur": {
+          "text": "بیشک وہ لوگ جنہوں نے کہا ہمارا رب اللہ ہے پھر استقامت اختیار کی -- ان پر نہ خوف ہوگا اور نہ وہ غمگین ہوں گے۔",
+          "translator": "Common Urdu renderings"
+        },
+        "short_context": "A comforting passage promising that those who affirm God and remain steadfast are relieved from fear and grief — used to restore calm and perspective.",
+        "tafsir_snippet": "Tafsir explains this verse addresses believers who declare 'Our Lord is Allah' and then live consistently; angels' reassurance removes fear and grief. It works as both assurance and instruction to maintain uprightness.",
+        "tafsir_link": "https://quran.com/41/30/tafsirs",
+        "audio_url": null,
+        "tags": ["reassurance", "steadfastness", "comfort"],
+        "suitability_notes": "Useful for existential sadness and fear; show context and encourage deeper reading for full spiritual implications.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator's license"
+      }
+    ],
+        "anxiety": [
+      {
+        "id": "13:28_v1",
+        "surah": 13,
+        "ayah": 28,
+        "key": "13:28",
+        "arabic": "الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+        "transliteration": "Alladhīna āmanū wa taṭmaʾinnu qulūbuhum bi dhik'rillāhi; alā bidhik'rillāhi taṭmaʾinnu al-qulūb",
+        "translation_en": {
+          "text": "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured.",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "وہ جو ایمان لائے اور جن کے دل اللہ کے ذکر سے قرار پاتے ہیں — بے شک اللہ کے ذکر سے دلیں قرار پاتی ہیں۔",
+          "translator": "Common Urdu renderings"
+        },
+        "short_context": "Affirms that remembrance (dhikr) of God brings inner calm — directly useful when anxiety causes unrest and racing thoughts.",
+        "tafsir_snippet": "Classical tafsir explains this verse as showing the spiritual remedy for inner unrest: sincere remembrance and connection with Allah bring tranquillity to the heart. It is used in devotional practice to reduce anxiety and worry.",
+        "tafsir_link": "https://quran.com/13/28/tafsirs",
+        "audio_url": null,
+        "tags": ["dhikr", "calm", "remembrance", "tranquility"],
+        "suitability_notes": "Highly suitable for acute anxiety and rumination; safe to display with suggestion to practice short breathing + dhikr exercise.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "65:3_v1",
+        "surah": 65,
+        "ayah": 3,
+        "key": "65:3",
+        "arabic": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ ۚ إِنَّ اللَّهَ بَالِغُ أَمْرِهِ",
+        "transliteration": "Wa yarzuqhu min ḥaythu lā yaḥtasib; wa man yatawakkal ʿalallāhi fahuwa ḥasbuh; inna Allāha bālighu amrihi",
+        "translation_en": {
+          "text": "And will provide for him from where he does not expect. And whoever relies upon Allah — then He is sufficient for him. Indeed, Allah will accomplish His purpose.",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "اور اللہ اس کو وہاں سے رزق عطا فرمائے گا جہاں سے وہ گمان بھی نہ کرے۔ اور جو اللہ پر توکل کرے تو وہ اسے کافی ہے۔",
+          "translator": "Common Urdu renderings"
+        },
+        "short_context": "Speaks to reliance (tawakkul) and unexpected provision — useful when anxiety centers on future uncertainty and provision.",
+        "tafsir_snippet": "Tafsir highlights that sincere reliance on Allah does not negate action but reassures that sustenance and help often come from unexpected sources; the verse reduces future-oriented anxiety by reframing trust.",
+        "tafsir_link": "https://quran.com/65/3/tafsirs",
+        "audio_url": null,
+        "tags": ["tawakkul", "provision", "trust", "reassurance"],
+        "suitability_notes": "Good for anxiety about needs or future; pair with short practical advice (plan + trust) to avoid passive fatalism.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "9:51_v1",
+        "surah": 9,
+        "ayah": 51,
+        "key": "9:51",
+        "arabic": "قُل لَّن يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا ۚ هُوَ مَوْلَانَا ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+        "transliteration": "Qul lan yuṣībanā illā mā kataba Allāhu lanā; huwa mawlānā; wa ʿalallāhi falyatawakkalil muʾminūn",
+        "translation_en": {
+          "text": "Say, \"Never will we be struck except by what Allah has decreed for us; He is our protector.\" And upon Allah let the believers rely.",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "کہہ دو کہ ہم کو کوئی بھی نقصان نہ پہنچ سکتا مگر جو اللہ نے ہمارے لئے لکھی رکھی ہو — وہ ہمارا سرپرست ہے۔ اور مومنوں کو اللہ پر بھروسہ کرنا چاہئے۔",
+          "translator": "Common Urdu renderings"
+        },
+        "short_context": "Emphasizes divine decree and reliance — helps reframe catastrophic thinking by reminding that not everything is within our control.",
+        "tafsir_snippet": "Tafsir places this verse in the context of reminding the community about reliance and acceptance of what is decreed; it is used to reduce panic and fear about threats by pointing to divine oversight.",
+        "tafsir_link": "https://quran.com/9/51/tafsirs",
+        "audio_url": null,
+        "tags": ["qadr", "reliance", "acceptance", "fear-management"],
+        "suitability_notes": "Useful for catastrophic worry; show with a short note encouraging practical safety steps plus spiritual reliance to avoid passivity.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "3:173_v1",
+        "surah": 3,
+        "ayah": 173,
+        "key": "3:173",
+        "arabic": "الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+        "transliteration": "Alladhīna qāla lahumu alnnāsu inna alnnāsa qad jamaʿū lakum fa-akhshawhum fazādahum īmānan wa qālū ḥasbunā Allāhu wa niʿma al-wakīl",
+        "translation_en": {
+          "text": "Those to whom people said, \"Indeed, the people have gathered against you, so fear them.\" But it [only] increased them in faith, and they said, \"Sufficient for us is Allah, and [He is] the best Disposer of affairs.\"",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "جن سے لوگوں نے کہا کہ لوگ تمہارے خلاف جمع ہو گئے ہیں تو انہیں ڈرو، مگر اس نے ان کے ایمان میں اضافہ کیا اور انہوں نے کہا اللہ ہی ہمارے لئے کافی ہے اور وہ بہترین کارساز ہے۔",
+          "translator": "Common Urdu renderings"
+        },
+        "short_context": "Describes believers who responded to fear with increased faith and reliance — a model response to anxiety-provoking rumors or threats.",
+        "tafsir_snippet": "Tafsir recounts how companions faced threats yet responded with trust and affirmation; the verse is cited as an example of converting fear into strengthened faith and composure.",
+        "tafsir_link": "https://quran.com/3/173/tafsirs",
+        "audio_url": null,
+        "tags": ["courage", "trust", "anti-panic", "faith-response"],
+        "suitability_notes": "Good for anxiety provoked by perceived threats or social fear; pair with breathing/grounding tips and the phrase 'Hasbunallahu' as a calm anchor.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "2:156_v1",
+        "surah": 2,
+        "ayah": 156,
+        "key": "2:156",
+        "arabic": "الَّذِينَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+        "transliteration": "Alladhīna idhā aṣābathum muṣībatun qālū innā lillāhi wa innā ilayhi rājiʿūn",
+        "translation_en": {
+          "text": "Who, when disaster strikes them, say, \"Indeed we belong to Allah, and indeed to Him we will return.\"",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "وہ لوگ جب ان پر کوئی مصیبت پہنچتی ہیں تو کہتے ہیں بے شک ہم اللہ کیلئے ہیں اور بے شک ہم اسی کی طرف لوٹ کر جانے والے ہیں۔",
+          "translator": "Common Urdu renderings"
+        },
+        "short_context": "A canonical expression of acceptance and perspective when calamity strikes — useful to reduce panic, rumination, and catastrophic escalation during anxiety.",
+        "tafsir_snippet": "Tafsir explains that this phrase (inna lillahi...) is a practice of the patient: it reframes loss/trauma as part of a larger divine return and so consoles the heart and interrupts spirals of worry.",
+        "tafsir_link": "https://quran.com/2/156/tafsirs",
+        "audio_url": null,
+        "tags": ["patience", "acceptance", "perspective", "resignation-in-faith"],
+        "suitability_notes": "Powerful for acute panic after a bad event; include a short UX note: 'Breathe, read this ayah, then seek help if needed.'",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      }
+    ],
+        "irritability": [
+      {
+        "id": "3:134_v1",
+        "surah": 3,
+        "ayah": 134,
+        "key": "3:134",
+        "arabic": "الَّذِينَ يُنفِقُونَ فِي السَّرَّاءِ وَالضَّرَّاءِ وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ ۗ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ",
+        "transliteration": "Alladhīna yunfiqūna fī as-sarrā'i wa aḍ-ḍarrā'i wa al-kāẓimīna al-ghayẓa wa al-ʿāfīna ʿani an-nāsi; wa Allāhu yuḥibbu al-muḥsinīn",
+        "translation_en": {
+          "text": "Who spend [in the cause of Allah] in prosperity and in adversity and who restrain anger and who pardon the people — and Allah loves the doers of good;",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "جو خوشی اور غمی میں خرچ کرتے ہیں، اور غصہ روکنے والے اور لوگوں کو معاف کرنے والے ہیں — اور اللہ نیکی کرنے والوں سے محبت کرتا ہے۔",
+          "translator": "Common Urdu renderings (placeholder)"
+        },
+        "short_context": "Lists virtues including restraining anger and forgiving others — a direct ethical instruction to curb impulsive anger and choose pardon.",
+        "tafsir_snippet": "Classical tafsir highlights 'kadhim al-ghayz' (those who control their anger) and 'al-'afin an an-nas' (those who pardon) as morally elevated traits; the verse pairs practical charity with inner self-control, presenting restraint as a mark of true piety.",
+        "tafsir_link": "https://quran.com/3/134/tafsirs",
+        "audio_url": null,
+        "tags": ["anger-control","forgiveness","self-restraint","ethics"],
+        "suitability_notes": "Highly appropriate for irritability—display with a short UX prompt (pause, breathe, try forgiving) and link to tafsir for deeper study.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "41:34_v1",
+        "surah": 41,
+        "ayah": 34,
+        "key": "41:34",
+        "arabic": "وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ۚ ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ وَلِيٌّ حَمِيمٌ",
+        "transliteration": "Wa lā tastawee al-ḥasanatu wa lā as-sayyi'ah; idfaʿ bi-allatī hiya aḥsanu fa-idhā alladhī baynaka wa baynahu ʿadāwati ka-annahū waliyyun ḥamīm",
+        "translation_en": {
+          "text": "And not equal are the good deed and the bad. Repel [evil] by that [deed] which is better; and thereupon the one whom between you and him is enmity [will become] as though he was a devoted friend.",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "نیکی اور برائی برابر نہیں ہیں — برائی کو بہترین طریقہ سے ٹال دو تو جو تمہارے اور اس کے درمیان دشمنی ہے گویا وہ گرم دوست ہو جائے گا۔",
+          "translator": "Common Urdu renderings (placeholder)"
+        },
+        "short_context": "Teaches responding to harm with better conduct rather than retaliation — a practical strategy to defuse anger and convert hostility into friendship.",
+        "tafsir_snippet": "Tafsir explains this verse as guidance to break cycles of retaliation: a calm, excellent response can neutralize hostility and change relationships; it is often cited as a behavioral prescription for anger management and conflict resolution.",
+        "tafsir_link": "https://quran.com/41/34/tafsirs",
+        "audio_url": null,
+        "tags": ["respond-with-good","conflict-resolution","anger-management"],
+        "suitability_notes": "Great for impulsive reactive anger; present with an action prompt (pause, answer kindly) and link to tafsir for moral framing.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "42:37_v1",
+        "surah": 42,
+        "ayah": 37,
+        "key": "42:37",
+        "arabic": "وَالَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ",
+        "transliteration": "Wa alladhīna yajtanibūna kabā'ira al-ithmi wa al-fawāḥisha wa idhā mā ghaḍibū hum yaghfirūn",
+        "translation_en": {
+          "text": "And those who avoid the major sins and immorality and when they are angry they forgive.",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "اور جو بڑے گناہوں اور فواحش سے بچتے ہیں اور جب وہ غصہ ہوتے ہیں تو معاف کر دیتے ہیں۔",
+          "translator": "Common Urdu renderings (placeholder)"
+        },
+        "short_context": "Links moral uprightness with the ability to forgive when angry — framing forgiveness as a hallmark of righteous character.",
+        "tafsir_snippet": "Classical commentators note this verse as identifying traits of the righteous: avoidance of major sins and forgiving in anger; it indicates that moral discipline includes emotional regulation and choosing pardon over retaliation.",
+        "tafsir_link": "https://quran.com/42/37/tafsirs",
+        "audio_url": null,
+        "tags": ["forgiveness","self-discipline","moral-character","anger-regulation"],
+        "suitability_notes": "Suitable for mild-to-moderate irritability; UI should suggest a short cooling-off practice and link to tafsir for ethical context.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "7:199_v1",
+        "surah": 7,
+        "ayah": 199,
+        "key": "7:199",
+        "arabic": "خُذْ بِالْعَفْوِ وَأَمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَاهِلِينَ",
+        "transliteration": "Khudh bil-ʿafwi wa amr bil-ʿurfi wa aʿriḍ ʿani al-jāhilīn",
+        "translation_en": {
+          "text": "Show forgiveness, enjoin what is good, and turn away from the ignorant.",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "معاف کردو، بھلائی کی دعوت دو، اور نادانوں سے الگ ہو جاؤ۔",
+          "translator": "Common Urdu renderings (placeholder)"
+        },
+        "short_context": "A concise moral directive: forgive, promote good, and avoid escalating with the ignorant — practical for stopping short-term venting and conflict escalation.",
+        "tafsir_snippet": "Tafsir highlights this verse as a succinct code of conduct for social harmony; forgiving and avoiding engagement with petty provocation is presented as superior behavior that preserves dignity and peace.",
+        "tafsir_link": "https://quran.com/7/199/tafsirs",
+        "audio_url": null,
+        "tags": ["forgiveness","avoid-provocation","peaceful-conduct","social-harmony"],
+        "suitability_notes": "Ideal for impulsive snapping or when provoked; pair with quick UX tactic (step away, 3 deep breaths) and tafsir link.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "16:126_v1",
+        "surah": 16,
+        "ayah": 126,
+        "key": "16:126",
+        "arabic": "وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا بِمِثْلِ مَا عُومِلْتُمْ بِهِ ۖ وَلَئِنْ صَبَرْتُمْ لَهُوَ خَيْرٌ لِلصَّابِرِينَ",
+        "transliteration": "Wa in ʿāqabtum faʿāqibū bimit'li mā ʿūmiltum bihi; wa la'in ṣabartum lahuwa khayrun liṣ-ṣābirīn",
+        "translation_en": {
+          "text": "And if you punish [an enemy, O believers], punish with an equivalent of that with which you were harmed. But if you are patient — it is better for those who are patient.",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "اور اگر تم سزا دو تو اسی قسم کی سزا دو جس میں تم پر ظلم کیا گیا؛ اور اگر تم صبر کرو تو وہ صبر کرنے والوں کے لیے بہتر ہے۔",
+          "translator": "Common Urdu renderings (placeholder)"
+        },
+        "short_context": "Acknowledges the legitimacy of proportionate response but elevates patience as the superior moral choice — helps reframe revenge impulses into patient restraint.",
+        "tafsir_snippet": "Tafsir interprets this verse as granting a legal principle (proportional response) but preferring patience; in anger moments it teaches that while retaliation may be permitted, self-restraint is morally and spiritually higher.",
+        "tafsir_link": "https://quran.com/16/126/tafsirs",
+        "audio_url": null,
+        "tags": ["patience","proportionality","self-control","moral-preference"],
+        "suitability_notes": "Useful when user feels vengeful or reactive; UI should recommend delaying any action and reflect on consequences, with tafsir link for moral depth.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      }
+    ],
+    "emotional_lability": [
+      {
+        "id": "57:23_v1",
+        "surah": 57,
+        "ayah": 23,
+        "key": "57:23",
+        "arabic": "كَيْلَا تَحْزَنَ عَلَىٰ مَا فَاتَكَ وَلَا تَفْرَحْ بِمَا آتَاكَ ۗ وَاللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+        "transliteration": "Kaylā taḥzana 'alā mā fātaka walā tafraḥ bima ātāka; wa-llāhu lā yuḥibbu kulla mukhtālin fakhūr",
+        "translation_en": {
+          "text": "We let you know this˺ so that you neither grieve over what you have missed nor boast over what He has granted you. For Allah does not like whoever is arrogant, boastful.",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "تاکہ تم افسوس نہ کیا کرو اس پر جو تمہارے ہاتھ سے جاتا رہے اور اس پر اترایا نہ کرو جو وہ تمہیں دے دے اور اللہ کو بالکل پسند نہیں ہیں اترانے والے اور فخر کرنے والے۔",
+          "translator": "Mufti Taqi Usmani (Aasan Tarjuma) — public edition"
+        },
+        "short_context": "A reminder against emotional extremes — neither despairing over loss nor gloating over gain. Useful to stabilize mood swings that oscillate between disappointment and fleeting pride.",
+        "tafsir_snippet": "Classical tafsirs explain this verse as guidance to cultivate equilibrium: trust God’s decree so that neither loss triggers deep sorrow nor gain causes arrogance. It trains steady perspective, countering rapid ups/downs.",
+        "tafsir_link": "https://quran.com/57/23/tafsirs",
+        "audio_url": null,
+        "tags": ["equilibrium","contentment","perspective","avoid-extremes"],
+        "suitability_notes": "Highly suitable when user reports rapid swings between gloom and fleeting elation; pair with short UX tip: 'Pause — reflect: what is lasting?'.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "103:3_v1",
+        "surah": 103,
+        "ayah": 3,
+        "key": "103:3",
+        "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+        "transliteration": "Illā alladhīna āmanū wa 'amilū aṣ-ṣāliḥāti wa tawāṣaw bil-ḥaqqi wa tawāṣaw bi-ṣ-ṣabr",
+        "translation_en": {
+          "text": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "مگر وہ لوگ جو ایمان لائے اور نیک عمل کیے اور ایک دوسرے کو حق کی نصیحت کی اور ایک دوسرے کو صبر کی نصیحت کی۔",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
+        "short_context": "Al-Asr prescribes the qualities that prevent loss: belief, right action, mutual truth-advice and encouragement toward patience — a compact guide to steady behaviour over time.",
+        "tafsir_snippet": "Tafsir emphasizes that consistency (sabr and mutual reminders) protects one from being tossed by changing emotions. This verse is often cited as a blueprint for steady, communal practice against instability.",
+        "tafsir_link": "https://quran.com/103/3/tafsirs",
+        "audio_url": null,
+        "tags": ["consistency","patience","mutual-support","steadfastness"],
+        "suitability_notes": "Ideal when user reports oscillating motivation and follow-through; UX: suggest micro-habits and a partner check-in to preserve consistency.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "3:200_v1",
+        "surah": 3,
+        "ayah": 200,
+        "key": "3:200",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+        "transliteration": "Yā ayyuhā alladhīna āmanū aṣbirū wa ṣābirū wa rābiṭū wa ittaqū Allāha laʿallakum tuf'liḥūn",
+        "translation_en": {
+          "text": "O you who have believed, persevere and endure and remain stationed and fear Allah that you may be successful.",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "اے ایمان والو! صبر اختیار کرو اور ثابت قدم رہو اور اللہ سے ڈرو تاکہ تم کامیاب ہو جاؤ۔",
+          "translator": "Mufti Taqi Usmani (Aasan Tarjuma) — public edition"
+        },
+        "short_context": "A general exhortation to perseverance, endurance, and steadfastness — bolsters a mindset opposed to rapid emotional swings by calling for steadiness in belief and practice.",
+        "tafsir_snippet": "Tafsir links these commands to communal and personal stability; patience (sabr) and 'rabitah' (steadfastness/being posted) are remedies for vacillation and wavering resolve.",
+        "tafsir_link": "https://quran.com/3/200/tafsirs",
+        "audio_url": null,
+        "tags": ["perseverance","endurance","steadfastness","sabr"],
+        "suitability_notes": "Good when user reports frequent reversals in action (start/stop cycles); show with micro-task advice to restore momentum.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "11:115_v1",
+        "surah": 11,
+        "ayah": 115,
+        "key": "11:115",
+        "arabic": "وَاصْبِرْۖ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+        "transliteration": "Wa iṣbi­r fa-inna Allāha lā yuḍīʿu ajra al-muḥsinīn",
+        "translation_en": {
+          "text": "And be patient; indeed, Allah does not allow the reward of the doers of good to be lost.",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "اور صبر کرو، بے شک اللہ نیکی کرنے والوں کے اجر کو ضائع نہیں کرتا۔",
+          "translator": "Mufti Taqi Usmani (Aasan Tarjuma) — public edition"
+        },
+        "short_context": "A general reminder to be patient because patient, righteous action will not be wasted. Helps anchor action despite shifting emotions.",
+        "tafsir_snippet": "Classical tafsir explains this as encouragement to maintain patience and moral conduct even when inner feelings fluctuate; it reassures that consistent good will be rewarded.",
+        "tafsir_link": "https://quran.com/11/115/tafsirs",
+        "audio_url": null,
+        "tags": ["patience","reward","steadfast-action","moral-consistency"],
+        "suitability_notes": "Useful for moments when a user alternates between productive action and quitting; offer a small persistence prompt (do 1 small, meaningful step).",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "2:153_v1",
+        "surah": 2,
+        "ayah": 153,
+        "key": "2:153",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+        "transliteration": "Yā ayyuhā alladhīna āmanū istaʿīnū biṣ-ṣabri waṣ-ṣalāh; inna Allāha maʿa aṣ-ṣābirīn",
+        "translation_en": {
+          "text": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.",
+          "translator": "Sahih International"
+        },
+        "translation_ur": {
+          "text": "اے ایمان والو! صبر اور نماز سے مدد حاصل کرو، بے شک اللہ صبر کرنے والوں کے ساتھ ہے۔",
+          "translator": "Mufti Taqi Usmani (Aasan Tarjuma) — public edition"
+        },
+        "short_context": "Direct command: in emotional challenges, seek refuge in patience and ritual prayer — practical, immediate tools to manage volatility of feeling.",
+        "tafsir_snippet": "Tafsir clarifies that prayer (salah) plus inner patience (sabr) are active, stabilizing practices; this verse is routinely recommended as a first response to emotional turmoil.",
+        "tafsir_link": "https://quran.com/2/153/tafsirs",
+        "audio_url": null,
+        "tags": ["patience","prayer","stabilization","coping-tools"],
+        "suitability_notes": "High value for lability: recommend short breathing + prayer or grounding practice; include tafsir link and a UX prompt for a micro-prayer or dua.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      }
+    ],
+    "apathy": [
+      {
+        "id": "29:69_v1",
+        "surah": 29,
+        "ayah": 69,
+        "key": "29:69",
+        "arabic": "وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ",
+        "transliteration": "Wa alladhīna jāhadū fīnā lana hdiyannahum subulānā; wa inna Allāha lamaʿa al-muḥsinīn",
+        "translation_en": {
+          "text": "As for those who strive for Our cause, We will surely guide them to Our paths; and indeed, Allah is with the doers of good.",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "جو ہمارے راستے میں کوشش کرتے ہیں، ہم ضرور انہیں اپنی راہوں کی ہدایت دیں گے؛ اور یقیناً اللہ نیکی کرنے والوں کے ساتھ ہے۔ (بیاں کی رو سے خلاصہ)",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran) — Urdu summary / phrasing"
+        },
+        "short_context": "A direct encouragement to put effort (striving/endeavor) — assures that striving activates divine guidance. Useful to nudge users from passivity to taking a first step.",
+        "tafsir_snippet": "Classical tafsirs explain 'jāhada fīnā' as striving in ways that support faith (inner struggle, righteous effort, resisting the self). The promise: active effort elicits guidance and Divine accompaniment — a spiritual affirmation that action precedes guidance.",
+        "tafsir_link": "https://quran.com/29/69/tafsirs",
+        "audio_url": null,
+        "tags": ["striving","effort","guidance","action"],
+        "suitability_notes": "Very suitable for apathy: presents the spiritual principle that small efforts invite guidance. UX tip: pair with a micro-task (do 1 small step now).",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "2:195_v1",
+        "surah": 2,
+        "ayah": 195,
+        "key": "2:195",
+        "arabic": "وَأَنفِقُوا فِي سَبِيلِ اللَّهِ وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ ۖ وَأَحْسِنُوا ۛ إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+        "transliteration": "Wa anfiqū fī sabīli Allāhi wa lā tulqū bi-aydīkumu ilā at-tahlukah; wa aḥsinū; inna Allāha yuḥibbu al-muḥsinīn",
+        "translation_en": {
+          "text": "Spend in the way of Allah and do not throw yourselves into destruction [by withholding]. And do good; indeed, Allah loves the doers of good.",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "اللہ کے راستے میں خرچ کرو اور اپنے ہاتھوں کو ہلاک کرنے کے راستے میں نہ ڈالو (یعنی کنارہ کشی نہ کرو)، نیکی کرو، بے شک اللہ نیکی کرنے والوں کو پسند کرتا ہے۔",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran) — Urdu summary / phrasing"
+        },
+        "short_context": "Urges proactive giving and action; warns against self-harm by inaction or destructive withholding — a useful verse to counter inertia and inaction.",
+        "tafsir_snippet": "Tafsir ties the command to spend with the caution not to fall into ruin through passivity; commentators highlight that inaction/withholding can lead to loss, whereas measured action and doing good align with divine love.",
+        "tafsir_link": "https://quran.com/2/195/tafsirs",
+        "audio_url": null,
+        "tags": ["action","spend","anti-inaction","initiative"],
+        "suitability_notes": "Good for apathy related to avoidance/withdrawal; pair with a small actionable prompt (e.g., 'spend 5 minutes on task X').",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "8:24_v1",
+        "surah": 8,
+        "ayah": 24,
+        "key": "8:24",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَانَكُمْ لِمَا يُحْيِيكُمْ ۖ وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ بَيْنَ الْمَرْءِ وَقَلْبِهِ وَأَنَّهُۥٓ إِلَيْهِ تُحْشَرُونَ ۚ",
+        "transliteration": "Yā ayyuhā alladhīna āmanū is'tajībū lillāhi wa lir-rasūli idhā daʿākum limā yuḥyīkum; wa iʿlamū anna Allāha yaḥūlu bayna al-mar'i wa qalbihi",
+        "translation_en": {
+          "text": "O believers! Respond to Allah and His Messenger when he calls you to that which gives you life. And know that Allah stands between a person and their heart, and that to Him you will all be gathered.",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "اے اہل ایمان ! لبیک کہا کرو اللہ اور رسول ﷺ کی پکار پر جب وہ تمہیں پکاریں اس شے کے لیے جو تمہیں زندگی بخشنے والی ہے اور یہ کہ (بالآخر) تم سب کو یقیناً اسی کی طرف جمع کیا جانا ہے",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran) — Urdu summary / phrasing"
+        },
+        "short_context": "A call to respond when invited toward life-giving action — useful to break inertia by framing action as life-giving and divinely called.",
+        "tafsir_snippet": "Tafsir shows the verse as an exhortation to energetic obedience and responsiveness; rhetorical framing – 'that which gives life' – motivates positive initiative rather than passive avoidance.",
+        "tafsir_link": "https://quran.com/8/24/tafsirs",
+        "audio_url": null,
+        "tags": ["respond","initiative","call-to-action","obedience"],
+        "suitability_notes": "Useful for users stuck and awaiting motivation; pair with a 'first small step' prompt and short breathing exercise to overcome activation energy.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "31:17_v1",
+        "surah": 31,
+        "ayah": 17,
+        "key": "31:17",
+        "arabic": "يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأَمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنكَرِ وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ ۚ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ",
+        "transliteration": "Yā bunayya aqim al-ṣalāta wa amr bil-maʿrūfi wa anh ʿani al-munkari wa iṣbir ʿalā mā aṣābaka; inna dhālika min ʿazmi al-umūr",
+        "translation_en": {
+          "text": "O my son, establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you. Indeed, that is of the matters [requiring] determination.",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "اے میرے بیٹے! نماز قائم رکھ، نیکی کا حکم دے، برائی سے روک، اور جو کچھ تمہیں پہنچے اس پر صبر کرو؛ یہی کاموں میں ثابت قدمی ہے۔",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran) — Urdu summary / phrasing"
+        },
+        "short_context": "Practical advice from Luqman to his son: establish disciplined practices (prayer), moral action, and patient endurance — an instruction set to counter passivity through rituals and principled action.",
+        "tafsir_snippet": "Tafsir presents this as both spiritual and practical counsel: discipline (salah) and steady right action guard against drifting and loss of resolve. Emphasis on 'determination' makes it apt for apathy remedies.",
+        "tafsir_link": "https://quran.com/31/17/tafsirs",
+        "audio_url": null,
+        "tags": ["discipline","ritual","action","perseverance"],
+        "suitability_notes": "Highly actionable for apathy: suggest establishing one small ritual (e.g., 5 minutes of focused work or a short prayer) to build momentum.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      },
+
+      {
+        "id": "18:46_v1",
+        "surah": 18,
+        "ayah": 46,
+        "key": "18:46",
+        "arabic": "الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا ۖ وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا",
+        "transliteration": "Al-mālu wa al-banūna zīnatul-ḥayāti ad-dunyā; wa al-bāqiyātu aṣ-ṣāliḥātu khayrun ʿinda rabbika thawāban wa khayrun amalā",
+        "translation_en": {
+          "text": "Wealth and children are the adornment of this worldly life, but the lasting good deeds are better with your Lord in reward and better for hope.",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "دولت اور اولاد دنیا کی زندگی کی زینت ہیں، اور نیک قائم رہنے والی چیزیں تیرے رب کے نزدیک اجر میں بہتر اور امید میں زیادہ فایدۂ مند ہیں۔",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran) — Urdu summary / phrasing"
+        },
+        "short_context": "Contrasts temporary worldly attractions with enduring good deeds — useful to reframe apathy as misplaced focus and to motivate towards meaningful action.",
+        "tafsir_snippet": "Tafsir notes that while worldly adornments can distract, what remains (righteous deeds) yields greater hope and reward; a perspective nudge to act in ways that outlast temporary inertia.",
+        "tafsir_link": "https://quran.com/18/46/tafsirs",
+        "audio_url": null,
+        "tags": ["priorities","motivation","lasting-deeds","reframe"],
+        "suitability_notes": "Good when apathy comes from meaninglessness or distraction; present with a tiny values exercise: 'what small deed would matter a year from now?'.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
+      }
+    ],
+    "hopelessness": [
+      {
+        "id": "93:3_v1",
+        "surah": 93,
+        "ayah": 3,
+        "key": "93:3",
+        "arabic": "وَمَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+        "transliteration": "Wa mā waddaʿaka rabbuka wa mā qalā",
+        "translation_en": {
+          "text": "Your Lord has neither forsaken you nor is He displeased.",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "تیرا رب نے نہ تجھے چھوڑا ہے اور نہ وہ تجھ سے ناراض ہوا ہے۔",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
+        "short_context": "A direct reassurance: God has not abandoned the Prophet — a concise comfort against feeling forsaken or rejected.",
+        "tafsir_snippet": "Classical tafsirs explain that this verse was revealed to console the Prophet after a pause in revelation; it functions as a general reassurance to believers that apparent absence of help is not abandonment.",
+        "tafsir_link": "https://quran.com/93/3/tafsirs",
+        "audio_url": null,
+        "tags": ["reassurance","not-abandoned","hope","divine-presence"],
+        "suitability_notes": "Use for acute feelings of abandonment; show with a gentle prompt and link to tafsir; include mental-health resources for persistent despair."
+      },
+
+      {
+        "id": "12:87_v1",
+        "surah": 12,
+        "ayah": 87,
+        "key": "12:87",
+        "arabic": "يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِن يُوسُفَ وَأَخِيهِ وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ ۚ إِنَّهُ لَا يَيْأَسُ مِن رَّوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ",
+        "transliteration": "Yā banīya idhhabū fataḥassasū min Yūsufa wa akhīhi wa lā tayʾasū min raḥmati Allāhi; innahū lā yayʾasu min raḥmati Allāhi illā al-qawmu al-kāfirūn",
+        "translation_en": {
+          "text": "O my sons, go and look for Joseph and his brother, and do not despair of Allah’s mercy. Indeed no one despairs of Allah’s mercy except the disbelieving people.",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "اے میرے بیٹو! جاؤ اور یوسف اور اس کے بھائی کے بارے میں تفتیش کرو، اور اللہ کی رحمت سے مایوس نہ ہو۔ بے شک اللہ کی رحمت سے ناامید صرف وہ لوگ ہوتے ہیں جو کافر ہیں۔",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
+        "short_context": "Prophet Jacob’s instruction to his sons: search actively and never give up hope in Allah’s mercy — a strong rebuke of despair and encouragement toward constructive action.",
+        "tafsir_snippet": "Tafsir notes: despairing of divine mercy contradicts faith; the verse encourages practical seeking while maintaining hope, a balance against resignation.",
+        "tafsir_link": "https://quran.com/12/87/tafsirs",
+        "audio_url": null,
+        "tags": ["do-not-despair","hope","mercy","active-search"],
+        "suitability_notes": "Good for discouragement that causes passivity; pair with a micro-action prompt and professional-help signposting if severe."
+      },
+
+      {
+        "id": "21:83_v1",
+        "surah": 21,
+        "ayah": 83,
+        "key": "21:83",
+        "arabic": "وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ",
+        "transliteration": "Wa Ayyūba idh nādā rabbahu annī massaniya aḍ-ḍurru wa anta arḥamu ar-rāḥimīn",
+        "translation_en": {
+          "text": "And [remember] Job, when he cried to his Lord, 'Indeed, adversity has touched me, and You are the Most Merciful of the merciful.'",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "اور ایوب کو یاد کرو جب اس نے اپنے رب سے کہا کہ بے شک مصیبت نے مجھے چھو لیا ہے اور آپ سب رحم کرنے والوں میں سب سے زیادہ رحم والے ہیں۔",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
+        "short_context": "The plaintive supplication of Prophet Ayyub (Job) during prolonged suffering; a model of turning to God in hardship rather than surrendering to despair.",
+        "tafsir_snippet": "Classical tafsirs recount Ayyub’s long trial and eventual restoration; his supplication and patience are presented as a hopeful precedent for those in deep distress.",
+        "tafsir_link": "https://quran.com/21/83/tafsirs",
+        "audio_url": null,
+        "tags": ["supplication","patience","example","relief-after-tribulation"],
+        "suitability_notes": "Powerful for severe hopelessness tied to suffering — show with compassionate language and a clear 'seek help' CTA for persistent despair."
+      },
+
+      {
+        "id": "40:60_v1",
+        "surah": 40,
+        "ayah": 60,
+        "key": "40:60",
+        "arabic": "وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+        "transliteration": "Wa qāla rabbukum idʿūnī astajib lakum; inna alladhīna yastakbirūna ʿan ʿibādatī sayadkhulūna jahannama dākhirīn",
+        "translation_en": {
+          "text": "And your Lord says, 'Call upon Me; I will respond to you.' Indeed, those who scorn My worship will enter Hell [in humiliation].",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "اور تمہارے رب نے فرمایا کہ مجھ سے دعا مانگو میں تمہاری دعا قبول کروں گا۔ بے شک جو لوگ میری عبادت سے تکبر کریں گے وہ ذلیل ہو کر دوزخ میں داخل ہوں گے۔",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
+        "short_context": "A direct divine promise: sincere supplication will be answered. This offers a practical avenue of hope for those who feel unheard and powerless.",
+        "tafsir_snippet": "Tafsir stresses sincerity and humility in duʿā (supplication); the verse invites active turning toward God as an immediate source of response and help.",
+        "tafsir_link": "https://quran.com/40/60/tafsirs",
+        "audio_url": null,
+        "tags": ["supplication","response","hope","divine-help"],
+        "suitability_notes": "Highly suitable — pair with a short dua template and signpost to mental-health resources for severe hopelessness."
+      },
+
+      {
+        "id": "57:28_v1",
+        "surah": 57,
+        "ayah": 28,
+        "key": "57:28",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَآمِنُوا بِرَسُولِهِ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِ وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِ وَيَغْفِر لَّكُمْ ۚ وَاللَّهُ غَفُورٌ رَّحِيمٌ",
+        "transliteration": "Yā ayyuhā alladhīna āmanū ittaqū Allāha wa āminū bir-rasūlihi yuʾtikum kiflayni min raḥmatihi wa yajʿal lakum nūran tamshūna bihi wa yaghfir lakum; wa Allāhu ghafūrun raḥīm",
+        "translation_en": {
+          "text": "O you who have believed, fear Allah and believe in His Messenger; He will give you a double portion of His mercy and make for you a light by which you will walk and forgive you. And Allah is Forgiving and Merciful.",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "اے ایمان والو! الله سے ڈرو اور اس کے رسول پر ایمان لاؤ، وہ تمہیں اپنی رحمت دوگنی دے گا اور تمہارے لیے ایک روشنی بنائے گا جس کے ساتھ تم چل سکو گے اور تمہارا گناہ معاف کرے گا۔ بے شک الله بخشنے والا، رحم والا ہے۔",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
+        "short_context": "Promises mercy, guidance (a ‘light’ to walk by), and forgiveness — reframing the future as one with divine support and hope.",
+        "tafsir_snippet": "Tafsir explains this as a promise for believers: sincere faith and piety attract abundant mercy and spiritual guidance — a potent antidote to despair by pointing to ongoing divine support.",
+        "tafsir_link": "https://quran.com/57/28/tafsirs",
+        "audio_url": null,
+        "tags": ["mercy","guidance","forgiveness","divine-support"],
+        "suitability_notes": "Suitable for persistent hopelessness — deliver with a calm UX prompt and a clear path to professional help if thoughts of giving up continue."
+      }
+    ],
+    "overwhelm": [
+      {
+        "id": "20:25_v1",
+        "surah": 20,
+        "ayah": 25,
+        "key": "20:25",
+        "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي",
+        "transliteration": "Rabbi ishrah li sadri",
+        "translation_en_paraphrase": "My Lord — expand my chest for me (calm and make my mind easy).",
+        "translation_ur_paraphrase": "اے میرے رب! میرے سینے کو کشادہ کر دے (میرے دل کو اطمینان دے).",
+        "short_context": "Moses’ supplication asking God to relieve tension and grant composure — a concise, immediate prayer for mental relief under pressure.",
+        "tafsir_snippet": "Classical tafsirs present this as Musa’s request for inner calm and patience before speaking to Pharaoh; scholars cite it as a model supplication for relieving anxiety and cognitive tightness.",
+        "tafsir_link": "https://quran.com/20/25/tafsirs",
+        "audio_url": null,
+        "tags": ["supplication","calm","relief","focus"],
+        "suitability_notes": "High value for acute cognitive tension and overwhelm; show with a 60-second grounding exercise prompt and the tafsir link for context. Encourage stepping away and breathing before acting."
+      },
+
+      {
+        "id": "2:155_v1",
+        "surah": 2,
+        "ayah": 155,
+        "key": "2:155",
+        "arabic": "وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ",
+        "transliteration": "Wa lanabluwannakum bishay'in minal-khawfi wal-ju'i wa naqsin minal-amwali wal-anfusi wath-thamarat; wa bashshir as-sabirin",
+        "translation_en_paraphrase": "We will surely test you with some fear, hunger, loss of wealth, life or produce — give good news to those who patiently persevere.",
+        "translation_ur_paraphrase": "ہم تم کو کچھ خوف، قحط، مال و زندگی اور پیداوار کے نقصان سے آزمانے والے ہیں۔ تو صبر کرنے والوں کو خوشخبری پہنچاؤ۔",
+        "short_context": "A clear statement that trials (including fear and loss) are part of life’s tests — frames overwhelm as a test and points to patience as the constructive stance.",
+        "tafsir_snippet": "Tafsir explains this verse as a broad teaching: trials are expected, and patience (sabr) is the prescribed response; understanding trials as tests helps reframe stress and reduce catastrophic interpretation.",
+        "tafsir_link": "https://quran.com/2/155/tafsirs",
+        "audio_url": null,
+        "tags": ["trial","patience","reframe","stress-response"],
+        "suitability_notes": "Suitable when overwhelm feels like permanent collapse — show with perspective reframing and concrete coping steps (prioritize, small wins). Include mental-health resource suggestions for severe chronic stress."
+      },
+
+      {
+        "id": "7:205_v1",
+        "surah": 7,
+        "ayah": 205,
+        "key": "7:205",
+        "arabic": "وَاذْكُر رَّبَّكَ فِي نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ الْجَهْرِ مِنَ الْقَوْلِ بِالْغُدَوَةِ وَالْآصَالِ وَلَا تَكُن مِّنَ الْغَافِلِينَ",
+        "transliteration": "Wa adhkur rabbaka fi nafsika tadarru'an wa khifatan wa doona al-jahri minal-qawli bil-ghuduwati wal-asal; wa la takun mina al-ghafilin",
+        "translation_en_paraphrase": "Remember your Lord quietly within yourself with humility and reverence morning and evening — and do not be among the heedless.",
+        "translation_ur_paraphrase": "اپنے رب کو دل میں عاجزی اور خشیت کے ساتھ صبح و شام یاد کرو، اور غفلت میں نہ رہو۔",
+        "short_context": "An instruction to practice inward remembrance (dhikr) with humility — a practice that reduces cognitive overload by centering attention and calming the mind.",
+        "tafsir_snippet": "Tafsir emphasizes inner dhikr as a stabilizing habit; private remembrance helps break anxious rumination and anchors attention away from spiralling worries.",
+        "tafsir_link": "https://quran.com/7/205/tafsirs",
+        "audio_url": null,
+        "tags": ["dhikr","mindfulness","attention","calming-practice"],
+        "suitability_notes": "Very practical for overwhelm caused by racing thoughts — pair with a short guided dhikr or breathing prompt. Warn users persistent symptoms may need professional help."
+      },
+
+      {
+        "id": "29:45_v1",
+        "surah": 29,
+        "ayah": 45,
+        "key": "29:45",
+        "arabic": "اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ ۖ إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ ۗ وَلَذِكْرُ اللَّهِ أَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
+        "transliteration": "Itlu ma oohiya ilayka minal kitabi wa aqim as-salata; inna as-salata tanha anil-fahsha wal-munkar; wa lidhikru Allahi akbaru; wa Allahu ya'lamu ma tasna'un",
+        "translation_en_paraphrase": "Recite what has been revealed and establish prayer — true prayer restrains immorality and wrongdoing; remembering Allah is even greater; and He knows what you do.",
+        "translation_ur_paraphrase": "جو کچھ تم پر نازل کیا گیا ہے اسے پڑھو اور نماز قائم کرو۔ نماز بے شک فحش اور برائی سے روک دیتی ہے؛ اور اللہ کی یاد سب سے بڑی ہے؛ اور اللہ جانتا ہے تم کیا کرتے ہو۔",
+        "short_context": "Establishing prayer and remembrance are presented as active practices that regulate behaviour and attention — useful interventions when overwhelm disrupts routine and discipline.",
+        "tafsir_snippet": "Tafsir notes prayer and dhikr operate as behavioral regulators — they restore structure, interrupt rumination, and reorient cognitive resources toward steady practice.",
+        "tafsir_link": "https://quran.com/29/45/tafsirs",
+        "audio_url": null,
+        "tags": ["prayer","structure","habit","attention-regulation"],
+        "suitability_notes": "Use when overwhelm breaks routines — suggest scheduling a small ritual (prayer or micro-break) and a plan for re-establishing tasks. Provide links to help resources if mental exhaustion is severe."
+      },
+
+      {
+        "id": "6:17_v1",
+        "surah": 6,
+        "ayah": 17,
+        "key": "6:17",
+        "arabic": "وَإِن يُمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ ۖ وَإِن يُمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "transliteration": "Wa in yumsaska Allahu bidhurrin fala kashifa lahu illa huwa; wa in yumsaska bikhayrin fahuwa 'ala kulli shay'in qadeer",
+        "translation_en_paraphrase": "If Allah afflicts you with harm, none can remove it except Him; and if He grants you good, He is capable of all things.",
+        "translation_ur_paraphrase": "اگر اللہ تمہیں کسی مصیبت میں مبتلا کرے تو اس کے سوا کوئی اسے دور نہیں کرسکتا؛ اور اگر وہ تمہیں خیر دے تو وہ ہر چیز پر قادر ہے۔",
+        "short_context": "Reminds believers that ultimate control over hardship and relief rests with God — a reframe that can reduce frantic attempts to control everything during acute stress.",
+        "tafsir_snippet": "Scholars explain this as both a warning and consolation: ultimate removal of harm is with God, which encourages measured coping rather than panic. It calls for reliance combined with sensible action.",
+        "tafsir_link": "https://quran.com/6/17/tafsirs",
+        "audio_url": null,
+        "tags": ["divine-help","reliance","reframe","measured-coping"],
+        "suitability_notes": "Useful for overwhelm caused by trying to control uncontrollable factors — pair with a short plan: what you can control now, what you delegate, and a breathing/prayer intervention."
+      }
+    ],
+    "loneliness": [
+        {
+        "id": "2:186_v1",
+        "surah": 2,
+        "ayah": 186,
+        "key": "2:186",
+        "arabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا۟ بِي لَعَلَّهُمْ يَرْشُدُونَ",
+        "transliteration": "Wa-idhā sa'alaka ʿibādī ʿannī fa-innī qarībun; ujību daʿwata ad-dāʿi idhā daʿān; fal-yastajībū lī wa-alyu’minū bī laʿallahum yarshudūn",
+        "translation_en": {
+            "text": "When My servants ask you concerning Me — indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me and believe in Me that they may be guided.",
+            "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+            "text": "اور جب میرے بندے آپ سے میرے بارے میں سوال کریں تو کہہ دیں کہ میں نزدیک ہوں؛ جب کوئی مجھے پکارتا ہے تو میں دعا قبول کرتا ہوں۔ پس وہ میری طرف لبّیک کہیں اور مجھ پر ایمان لائیں تاکہ وہ ہدایت پائیں۔",
+            "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
+        "short_context": "Promises Divine nearness and immediate response to sincere calling—addresses the felt absence by affirming God’s closeness and receptivity.",
+        "tafsir_snippet": "Dr. Israr Ahmad and classical tafsirs note this verse emphasizes direct access to God (no intermediation required) and that sincere calling + responsive faith restores orientation and reduces isolation.",
+        "tafsir_link": "https://quran.com/2/186/tafsirs",
+        "audio_url": null,
+        "tags": ["divine-nearness","dua","accessibility","reassurance","help-seeking"],
+        "suitability_notes": "Use when loneliness produces silence or withdrawal — pair with a 1-minute guided dua/recall: ‘Call out, you are heard.’",
+        "added_by": "curator_ibrahim",
+        "date_added": "2025-10-23T00:00:00Z",
+        "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+        },
+
+        {
+        "id": "50:16_v1",
+        "surah": 50,
+        "ayah": 16,
+        "key": "50:16",
+        "arabic": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُۥ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
+        "transliteration": "Walaqad khalaqnā al-insāna wanaʿlamu mā tuwaswisu bihi nafsuhu wanaḥnu aqrabu ilayhi min ḥabli al-warīd",
+        "translation_en": {
+            "text": "In fact, We created humankind and We know what their souls whisper to them, and We are closer to them than [their] jugular vein.",
+            "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+            "text": "ہم نے انسان کو پیدا کیا اور جانتے ہیں کہ اس کا نفس اس میں کیا وسوسے کرتا ہے؛ اور ہم اس کے لئے رگِ عنق (قربتاً) سے بھی زیادہ قریب ہیں۔",
+            "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
+        "short_context": "Affirms God’s intimate knowledge and closeness — counters internalized secrecy and the sense of being unseen or alone.",
+        "tafsir_snippet": "Tafsir emphasizes this ayah’s existential intimacy: nothing of the inner self is hidden from God. For loneliness, it reframes isolation as illusory because the Divine presence is immediate.",
+        "tafsir_link": "https://quran.com/50/16/tafsirs",
+        "audio_url": null,
+        "tags": ["divine-presence","inner-knowledge","intimacy","comfort"],
+        "suitability_notes": "Recommend when rumination and secret shame drive withdrawal; pair with a reflective exercise: list one truth God knows about you that comforts you.",
+        "added_by": "curator_ibrahim",
+        "date_added": "2025-10-23T00:00:00Z",
+        "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+        },
+
+        {
+        "id": "41:30_v1",
+        "surah": 41,
+        "ayah": 30,
+        "key": "41:30",
+        "arabic": "إِنَّ الَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَامُوا۟ فَتَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلَـٰئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوٓا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِي كُنتُمْ تُوعَدُونَ",
+        "transliteration": "Inna alladhīna qālū rabbunā Allāhu thumma istaqāmū fatatanazzalu ʿalayhimu al-malāʾikatu allā takhāfū walā taḥzanū wa-abshirū bil-jannati allatī kuntum tūʿadūn",
+        "translation_en": {
+            "text": "Surely those who say, ‘Our Lord is Allah,’ and then remain steadfast — the angels will descend upon them, [saying,] “Do not fear, nor grieve. Rather, rejoice in the good news of Paradise which you have been promised.”",
+            "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+            "text": "بے شک وہ لوگ جنہوں نے کہا ہمارا رب اللہ ہے پھر قائم رہے تو فرشتے ان پر نازل ہوتے ہیں کہ تم نہ ڈرو اور نہ غمگین ہو اور خوشخبری سناؤ اس جنت کی جس کا تم سے وعدہ کیا گیا تھا۔",
+            "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
+        "short_context": "A promise of angelic reassurance to those who hold firm faith — counters fear and grief associated with social isolation by offering divine consolation.",
+        "tafsir_snippet": "Tafsir writers explain the angels’ descent as a real spiritual reassurance for those who maintain faith and uprightness; practically, the ayah reframes loneliness as a state that receives divine consolation.",
+        "tafsir_link": "https://quran.com/41/30/tafsirs",
+        "audio_url": null,
+        "tags": ["reassurance","steadfastness","divine-comfort","anticipated-joy"],
+        "suitability_notes": "Use when loneliness produces fear/grief—pair with a short compassionate self-message or group prayer that echoes the angelic reassurance.",
+        "added_by": "curator_ibrahim",
+        "date_added": "2025-10-23T00:00:00Z",
+        "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+        },
+
+        {
+        "id": "94:5_v1",
+        "surah": 94,
+        "ayah": 5,
+        "key": "94:5",
+        "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "transliteration": "Fa-inna maʿa al-ʿusri yusran",
+        "translation_en": {
+            "text": "For indeed, with hardship [will be] ease.",
+            "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+            "text": "پس یقیناً مشکل کے ساتھ آسانی ہے۔",
+            "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
+        "short_context": "Condensed promise of relief after hardship — reframes acute loneliness as a temporary state with an ordained easing.",
+        "tafsir_snippet": "Tafsir emphasizes that hardship and ease are intertwined and that hope in eventual ease reduces the tendency to withdraw indefinitely; it supplies cognitive reappraisal against catastrophic thinking.",
+        "tafsir_link": "https://quran.com/94/5/tafsirs",
+        "audio_url": null,
+        "tags": ["hope","respite","reframing","temporary"],
+        "suitability_notes": "For those who feel their state is permanent; pair with a short planning step: 'one thing I can try today that would ease this.'",
+        "added_by": "curator_ibrahim",
+        "date_added": "2025-10-23T00:00:00Z",
+        "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+        },
+
+        {
+        "id": "2:153_v1",
+        "surah": 2,
+        "ayah": 153,
+        "key": "2:153",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+        "transliteration": "Yā ayyuhā alladhīna āmanū istaʿīnū bi-ṣ-ṣabri wa-ṣ-ṣalāti; inna Allāha maʿa aṣ-ṣābirīn",
+        "translation_en": {
+            "text": "O believers! Seek comfort in patience and prayer. Allah is truly with those who are patient.",
+            "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+            "text": "اے ایمان والو! صبر اور نماز سے مدد چاہو؛ جان لو کہ اللہ صبر کرنے والوں کے ساتھ ہے۔",
+            "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
+        "short_context": "Direct practical instruction to seek help through patience and prayer; counters isolation by encouraging active coping and spiritual sociality (rituals and endurance).",
+        "tafsir_snippet": "Tafsir highlights this ayah as an actionable command — patience plus prayer reconnects the believer to purposeful practice and community rhythms (e.g., congregational prayer) that reduce withdrawal.",
+        "tafsir_link": "https://quran.com/2/153/tafsirs",
+        "audio_url": null,
+        "tags": ["patience","prayer","coping","community-ritual"],
+        "suitability_notes": "Best used with behavioral pairing: encourage attending one communal act (group prayer or a call) or a 5-minute breathing + prayer routine to reduce isolation.",
+        "added_by": "curator_ibrahim",
+        "date_added": "2025-10-23T00:00:00Z",
+        "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+        }
+    ],
+    "guilt_shame": [
+    {
+      "id": "39:53_v1",
+      "surah": 39,
+      "ayah": 53,
+      "key": "39:53",
+      "arabic": "قُلۡ يَـٰعِبَادِيَ الَّذِينَ أَسْرَفُوا۟ عَلَىٰ أَنفُسِهِمْ لَا تَقۡنَطُوا۟ مِن رَّحۡمَةِ ٱللَّهِۚ إِنَّ ٱللَّهَ يَغۡفِرُ ٱلذُّنُوبَ جَمِيعًاۚ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ",
+      "transliteration": "Qul yā ʿibādiya alladhīna asrafū ʿalā anfusihim lā taqnaṭū min raḥmatillāh; inna Allāha yaghfiru al-dhunūba jamīʿan; innahu huwa al-ghafūru al-raḥīm",
+      "translation_en": {
+        "text": "Say, “O My servants who have transgressed against themselves: do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.”",
+        "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+      },
+      "translation_ur": {
+        "text": "کہہ دو اے میرے بندو! جو اپنے نفس پر حد سے بڑھ گئے ہو، اللہ کی رحمت سے مایوس نہ ہو؛ بے شک اللہ سب گناہوں کو بخش دیتا ہے، بیشک وہی بڑا بخشنے والا مہربان ہے۔",
+        "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+      },
+      "short_context": "Direct divine reassurance to those overwhelmed by their sins — replaces crippling shame with hope in God’s complete forgiveness.",
+      "tafsir_snippet": "Classical tafsir and Bayan-ul-Quran explain this verse as an explicit command to avoid despair: God’s forgiveness is comprehensive for sincere return; the verse counters hopeless self-rejection by offering a theologically grounded corrective (hope → action).",
+      "tafsir_link": "https://quran.com/39/53/tafsirs",
+      "audio_url": null,
+      "tags": ["forgiveness","hope","repentance","shame-relief"],
+      "suitability_notes": "Use when guilt causes paralysis or self-hate; pair with a short repentance script and one concrete corrective action (small restorative step).",
+      "added_by": "curator_ibrahim",
+      "date_added": "2025-10-23T00:00:00Z",
+      "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+    },
+
+    {
+      "id": "4:110_v1",
+      "surah": 4,
+      "ayah": 110,
+      "key": "4:110",
+      "arabic": "وَمَن يَفۡعَلۡ سُوٓءَآ اَوۡ يَظۡلِمۡ نَفۡسَهُۥ ثُمَّ يَسۡتَغۡفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًا رَّحِيمًا",
+      "transliteration": "Wa man yafʿal suvāan aw yaẓlim nafsahu thumma yastaġfirillāha yajidillāha ghafūran raḥīm",
+      "translation_en": {
+        "text": "And whoever does a wrong or wrongs himself and then seeks Allah’s forgiveness will find Allah Forgiving and Merciful.",
+        "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+      },
+      "translation_ur": {
+        "text": "اور جو بھی کوئی برا عمل کرے یا اپنے نفس پر ظلم کرے پھر اللہ سے مغفرت مانگے تو وہ اللہ کو بخشنے والا، رحمان پائے گا۔",
+        "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+      },
+      "short_context": "Affirms that active seeking of forgiveness undoes shameful wrongdoing — directs guilt into an effective corrective (seeking forgiveness).",
+      "tafsir_snippet": "Tafsir emphasizes action-oriented repentance: guilt should lead to istighfar (seeking forgiveness) rather than avoidance. The ayah legitimizes restorative steps and discourages hiding mistakes.",
+      "tafsir_link": "https://quran.com/4/110/tafsirs",
+      "audio_url": null,
+      "tags": ["repentance","istighfar","restoration","responsibility"],
+      "suitability_notes": "When guilt leads to hiding or avoidance, present this verse with a step: 'admit one small mistake + make amends or seek forgiveness.'",
+      "added_by": "curator_ibrahim",
+      "date_added": "2025-10-23T00:00:00Z",
+      "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+    },
+
+    {
+      "id": "3:135_v1",
+      "surah": 3,
+      "ayah": 135,
+      "key": "3:135",
+      "arabic": "وَٱلَّذِينَ إِذَا فَعَلُوا۟ فَٰحِشَةً أَوۡ ظَلَمُوا۟ أَنفُسَهُمْ ذَكَرُوا۟ ٱللَّهَ فَاسۡتَغۡفَرُوا۟ لِذُنُوبِهِمۡ وَمَن يَغۡفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمۡ يُصِرُّوا۟ عَلَىٰ مَا فَعَلُوا۟ وَهُم يَعۡلَمُونَ",
+      "transliteration": "Wa alladhīna idhā faʿalū fāḥishatan aw ẓalamū anfusahum dhakarūAllāha fa-istaġfarū lidhunūbihim wa man yaghfiru al-dhunūba illā Allāh wa lam yusirrū ʿalā mā faʿalū wa hum yaʿlamūn",
+      "translation_en": {
+        "text": "And those who, when they commit an immoral act or wrong themselves, remember Allah and seek forgiveness for their sins — and who forgives sins except Allah? — and who do not persist in what they did while they know.",
+        "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+      },
+      "translation_ur": {
+        "text": "اور جو لوگ جب کوئی بری بات کر بیٹھیں یا اپنے نفس پر ظلم کر بیٹھیں تو اللہ کو یاد کرتے ہیں اور اپنے گناہوں کی مغفرت مانگتے ہیں اور کون ہے جو اللہ کے سوا گناہوں کو بخش سکے؟ اور وہ جو کچھ کرتے ہیں اس پر اڑے نہیں رہتے جبکہ وہ جانتے ہوں۔",
+        "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+      },
+      "short_context": "Describes the psychologically healthy response to wrongdoing: acknowledgement, immediate repentance, and not persisting in sin — a constructive model to replace toxic shame.",
+      "tafsir_snippet": "Tafsir highlights the three steps: recognition, remembrance of God, and active istighfar, followed by behavioral correction; this sequence reframes guilt into learning and change rather than identity-condemning shame.",
+      "tafsir_link": "https://quran.com/3/135/tafsirs",
+      "audio_url": null,
+      "tags": ["acknowledgement","istighfar","behavioral-change","healthy-repair"],
+      "suitability_notes": "Use when shame becomes identity-threatening; present as a three-step micro-practice: (1) name the act, (2) seek forgiveness/repair, (3) commit to not repeat.",
+      "added_by": "curator_ibrahim",
+      "date_added": "2025-10-23T00:00:00Z",
+      "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+    },
+
+    {
+      "id": "66:8_v1",
+      "surah": 66,
+      "ayah": 8,
+      "key": "66:8",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوا۟ إِلَى ٱللَّهِ تَوْبَةً نَّصُوحًا ۚ عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّئَاتِكُمْ وَيُدْخِلَكُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ يَوْمَ لَّا يُخْزِى ٱللَّهُ ٱلنَّبِيَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَـٰنِهِمۡ",
+      "transliteration": "Yā ayyuhā alladhīna āmanū tūbū ilā Allāhi tawbatan naṣūḥan; ʿasā rabbukum an yukaffira ʿankum sayyiātikum wayudkhilakum jannātin tajrī min taḥtihā al-anhāru yawma lā yukhzi Allāhu al-nabiyya wa alladhīna āmanū maʿahu nūruhum yasʿā bayna aydīhim wa bi-aymānihim",
+      "translation_en": {
+        "text": "O you who have believed, repent to Allah with sincere repentance. Perhaps your Lord will remove from you your misdeeds and admit you into gardens beneath which rivers flow…",
+        "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+      },
+      "translation_ur": {
+        "text": "اے ایمان والو! اللہ کی طرف خالص توبہ کرو، تمہارا رب شاید تمہاری برائیاں تم سے دور کردے اور تمہیں ایسی جنتوں میں داخل کرے جن کے نیچے نہریں جاری ہوں…",
+        "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+      },
+      "short_context": "Encourages sincere repentance (tawbah-e-nasuh) with the promise of removal of misdeeds — converts self-condemnation into a forward-looking reparative process.",
+      "tafsir_snippet": "Bayan and classical tafsir treat this as a powerful invitation: sincere repentance reorients identity (from sinner to repentant) and mitigates shame by offering concrete spiritual remediation.",
+      "tafsir_link": "https://quran.com/66/8/tafsirs",
+      "audio_url": null,
+      "tags": ["tawbah","sincerity","remediation","identity-shift"],
+      "suitability_notes": "When guilt is chronic and identity-defining, guide users toward a sincere repentance ritual plus a plan for behavioral repair; emphasize actionable next steps.",
+      "added_by": "curator_ibrahim",
+      "date_added": "2025-10-23T00:00:00Z",
+      "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+    },
+
+    {
+      "id": "25:70_v1",
+      "surah": 25,
+      "ayah": 70,
+      "key": "25:70",
+      "arabic": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمۡ حَسَنَـٰتٍۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "transliteration": "Illā man tāba wa āmana wa ʿamila ʿamalan ṣāliḥan fa-ulāʾika yubaddilu Allāhu sayyiātihim ḥasanātin; wakāna Allāhu ghafūran raḥīm",
+      "translation_en": {
+        "text": "Except for those who repent, believe and do righteous deeds — for those Allah will replace their evil deeds with good. And ever is Allah Forgiving and Merciful.",
+        "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+      },
+      "translation_ur": {
+        "text": "سوائے ان لوگوں کے جو توبہ کریں، ایمان لائیں اور نیک عمل کریں؛ تو اللہ ان کے برے اعمال کو نیکیوں میں بدل دے گا، اور اللہ بخشنے والا مہربان ہے۔",
+        "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+      },
+      "short_context": "Provides the transformative promise: repentance + belief + righteous action can convert past wrongs into future goods — an antidote to shame that freezes change.",
+      "tafsir_snippet": "Tafsir stresses the transformative arc: substantive change (belief + righteous action) triggers divine replacement of sins with good deeds — practical hope for repair and growth.",
+      "tafsir_link": "https://quran.com/25/70/tafsirs",
+      "audio_url": null,
+      "tags": ["transformation","repair","active-repentance","hope"],
+      "suitability_notes": "Use to motivate constructive repair rather than rumination: pair with a concrete 'repair plan' step (one small righteous action today).",
+      "added_by": "curator_ibrahim",
+      "date_added": "2025-10-23T00:00:00Z",
+      "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+    }
+  ],
+    "emotional_numbness": [
+    {
+      "id": "13:28_v1",
+      "surah": 13,
+      "ayah": 28,
+      "key": "13:28",
+      "arabic": "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ",
+      "transliteration": "Alladhīna āmanū wa taṭmaʾinnu qulūbuhum bi-dhikr Allāh; alā bi-dhikr Allāh taṭmaʾinnu al-qulūb",
+      "translation_en": {
+        "text": "Those who believe and whose hearts find comfort in the remembrance of Allah. Indeed, by the remembrance of Allah hearts find comfort.",
+        "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+      },
+      "translation_ur": {
+        "text": "وہ لوگ جو ایمان لائے اور جن کے دل اللہ کے ذکر سے اطمینان پاتے ہیں۔ بے شک اللہ کے ذکر سے ہی دلوں کو اطمینان ملتا ہے۔",
+        "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+      },
+      "short_context": "Affirms that active remembrance reconnects the heart to feeling and calm — directly counters flattened affect by providing a reconnecting practice.",
+      "tafsir_snippet": "Tafsir emphasizes that remembrance (dhikr) is a corrective affective stimulus: it awakens the heart’s responsiveness and dissolves spiritual numbness by re-orienting attention.",
+      "tafsir_link": "https://quran.com/13/28/tafsirs",
+      "audio_url": null,
+      "tags": ["remembrance","reconnection","calming","activation"],
+      "suitability_notes": "Use as a practice anchor: 1–3 minutes of guided dhikr to re-sensitize feeling. Pair with noticing one bodily sensation afterwards.",
+      "added_by": "curator_ibrahim",
+      "date_added": "2025-10-23T00:00:00Z",
+      "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+    },
+
+    {
+      "id": "29:45_v1",
+      "surah": 29,
+      "ayah": 45,
+      "key": "29:45",
+      "arabic": "ٱتْلُ مَآ أُوحِيَ إِلَيْكَ مِنَ ٱلۡكِتَـٰبِ وَأَقِمِ ٱلصَّلَوٰةَۚ إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِۗ وَلَذِكْرُ ٱللَّهِ أَكْبَرُۗ وَٱللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
+      "transliteration": "It'lu mā ūḥiya ilayka mina al-kitābi wa aqim al-ṣalāta; inna al-ṣalāta tanhā ʿani al-faḥshāʼi wa al-munkar; wa lidhikru Allāhi akbaru; wa Allāhu yaʿlamu mā taṣnaʿūn",
+      "translation_en": {
+        "text": "Recite what has been revealed to you of the Book and establish prayer. Indeed, prayer should restrain from indecency and wrongdoing. And the remembrance of Allah is greater. And Allah knows what you do.",
+        "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+      },
+      "translation_ur": {
+        "text": "جو کچھ تم پر اس کتاب میں نازل کیا گیا پڑھا کرو اور نماز قائم کرو، بے شک نماز بے حیائی اور برائی سے روکتی ہے، اور اللہ کے ذکر کا تو مقام اور بھی بڑا ہے، اور اللہ جانتا ہے جو تم کرتے ہو۔",
+        "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+      },
+      "short_context": "Prayer and scripture-reading are practical rituals that counter disengagement and produce structured attention — useful to restore corrective feedback loops.",
+      "tafsir_snippet": "Tafsir notes that ritual practice (recitation + prayer) re-engages moral and emotional circuits—prayer acts as a habit-based corrective preventing drift into numbness.",
+      "tafsir_link": "https://quran.com/29/45/tafsirs",
+      "audio_url": null,
+      "tags": ["prayer","ritual","attention","behavioral-activation"],
+      "suitability_notes": "Recommend a micro-ritual: 1 verse recitation + one short intentional prayer (or focused breath) to restore sensitivity to values and feelings.",
+      "added_by": "curator_ibrahim",
+      "date_added": "2025-10-23T00:00:00Z",
+      "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+    },
+
+    {
+      "id": "39:23_v1",
+      "surah": 39,
+      "ayah": 23,
+      "key": "39:23",
+      "arabic": "ٱلَّذِيٓ أَنزَلَ ٱلْكِتَـٰبَ بِٱلْحَقِّۚ وَمَآ أَنزَلۡنَآكَ إِلَّا مُبَشِّرًاۖ وَنَذِيرًاۚ وَقَالَتِ ٱلَّذِينَ كَفَرُوا۟ إِنْ هَـٰذَآ إِلَّا سِحْرٌۚ وَقَالَ ٱلَّذِينَ ءَامَنُوا۟ هُوَ ٱلْحَقُّ مِن رَّبِّكُمْۖ فَٱسْتَبِشِرُوا۟ بِبِعْثِكُمْۚۖ وَٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ لِلْأَجْنَـٰدِ وَٱلْقُلُوبِ تَخْشَعُۥ لِذِكْرِ ٱللَّهِۗ ذَٰلِكَ هُدَى ٱللَّهِۚ يَهْدِي بِهِۦ مَن يَشَآءُۖ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُ مِنۢ هَادٍ",
+      "transliteration": "Alladhī anzala al-kitāba bi-al-ḥaq; wa mā anzalnāka illā mubashshiran wa nadhīr; wa qālati alladhīna kafarū in hādhā illā siḥr; wa qāla alladhīna āmanū huwa al-ḥaq min rabbikum fa-istabshirū bi-biʿthikum; wa alladhīna yakhshawn rabbahum li-l-ajnādi wa al-qulūb takhshaʿu li-dhikri Allāh; dhālika hudā Allāh; yahdī bihi man yashāʼ; wa man yuḍlilillāh famā lahu min hād",
+      "translation_en": {
+        "text": "It is He who has sent down the best statement — a Book whose verses are precise in meaning — and the skins and hearts of those who fear their Lord tremble at its mention. That is the guidance of Allah; He guides by it whom He wills. And whoever Allah leaves astray has no guide.",
+        "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+      },
+      "translation_ur": {
+        "text": "وہی ہے جس نے بہترین پیغام (کتاب) نازل کیا، جس کی آیتیں معنی میں ٹھوس ہیں، اور جن لوگوں نے اپنے رب سے ڈر رکھا ان کی کھالیں اور دل اللہ کے ذکر سے کانپ اٹھتے ہیں، یہی اللہ کی ہدایت ہے، جسے چاہے اس کے ذریعے ہدایت دیتا ہے، اور جس کو اللہ گمراہ کردے تو اس کا کوئی رہنما نہیں۔",
+        "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+      },
+      "short_context": "Qur’anic recitation moves even bodily sensation and heart responsiveness — useful to pierce numbness by invoking a somatic response.",
+      "tafsir_snippet": "Tafsir highlights the visceral effect of the Qur’an: recitation can produce trembling and softening—an embodied re-awakening of affective responsiveness.",
+      "tafsir_link": "https://quran.com/39/23/tafsirs",
+      "audio_url": null,
+      "tags": ["quranic-recitation","somatic-response","awakening","guidance"],
+      "suitability_notes": "When numbness is severe, use very short, slow recitation (1–2 lines) with attention to sensation — note any small change as feedback.",
+      "added_by": "curator_ibrahim",
+      "date_added": "2025-10-23T00:00:00Z",
+      "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+    },
+
+    {
+      "id": "6:125_v1",
+      "surah": 6,
+      "ayah": 125,
+      "key": "6:125",
+      "arabic": "فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـمِۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ",
+      "transliteration": "Fa-man yuridi Allāhu an yahdiyahu yashrah ṣadrahu lil-islām; wa man yuridi an yuḍillahu yajʿal ṣadrahu ḍayyqan ḥarajan ka-annamā yaṣʿadu fī al-samāʼ; kadhālika yajʿalu Allāhu al-rijsa ʿalā alladhīna lā yuʾminūn",
+      "translation_en": {
+        "text": "So whoever Allah intends to guide — He expands his breast to Islam; and whoever He intends to leave astray — He makes his breast tight and constricted as though he were climbing into the sky. Thus Allah places defilement upon those who do not believe.",
+        "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+      },
+      "translation_ur": {
+        "text": "پس جسے اللہ ہدایت دینا چاہے اس کا سینہ اسلام کے لیے کشادہ کر دیتا ہے اور جسے گمراہ کرنا چاہے اس کا سینہ تنگ اور سخت کر دیتا ہے گویا وہ آسمان کی طرف چڑھ رہا ہو؛ اسی طرح اللہ ان لوگوں پر رجس (گناہی و سختی) ڈال دیتا ہے جو ایمان نہیں لاتے۔",
+        "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+      },
+      "short_context": "Describes the psychological/physiological difference of openness vs. constriction — offers theological language for shifts from numb constriction toward expansive receptivity.",
+      "tafsir_snippet": "Tafsir treats ‘opening of the chest’ as increased receptivity and ease for spiritual and emotional engagement; therapeutically this models how openness restores feedback and affect.",
+      "tafsir_link": "https://quran.com/6/125/tafsirs",
+      "audio_url": null,
+      "tags": ["openness","receptivity","heart-state","psychophysiology"],
+      "suitability_notes": "Use to explain and normalize constriction (numbness as tightness) and as a script for gradual exposure: small opening practices (breath + short reading) to expand affective range.",
+      "added_by": "curator_ibrahim",
+      "date_added": "2025-10-23T00:00:00Z",
+      "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+    },
+
+    {
+      "id": "2:155_v1",
+      "surah": 2,
+      "ayah": 155,
+      "key": "2:155",
+      "arabic": "وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٲلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِۗ وَبشرِ ٱلصَّٰبِرِينَ",
+      "transliteration": "Wa la nablūannakum bi-shayʾin mina al-khawfi wa al-jūʿi wa naqsin mina al-amwāli wa al-anfusi wa al-thamarāt; wa bashshir al-ṣābirīn",
+      "translation_en": {
+        "text": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient.",
+        "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+      },
+      "translation_ur": {
+        "text": "اور ہم تمہیں معلوم چیزوں (آزمائشوں) سے آزمائیں گے جیسے خوف، بھوک، مال و جان اور پیداوار میں کمی؛ پس صبر کرنے والوں کو خوشخبری سنا دو۔",
+        "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+      },
+      "short_context": "Frames numbing/emptiness as a possible aftermath of prolonged testing — normalizes the experience and points to patience and active endurance as pathways back to responsiveness.",
+      "tafsir_snippet": "Tafsir explains trials as causes of emotional strain; recognizing the trial frame reduces self-blame for numbness and suggests patient, structured coping rather than avoidance.",
+      "tafsir_link": "https://quran.com/2/155/tafsirs",
+      "audio_url": null,
+      "tags": ["trial","normalization","patience","endurance"],
+      "suitability_notes": "When numbness follows chronic stress/trauma, pair this verse with psychoeducation: name the trial, normalize numbness, and choose one small re-engagement step.",
+      "added_by": "curator_ibrahim",
+      "date_added": "2025-10-23T00:00:00Z",
+      "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+    }
+  ]
+  }
+}
