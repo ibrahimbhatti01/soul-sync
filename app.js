@@ -1,7 +1,9 @@
 let data;
 const body = document.querySelector("body");
 const boxContainer = document.querySelector(".box-container");
+const blurOverlay = document.querySelector(".blur-overlay");
 const ayahPage = document.querySelector(".ayah-page");
+const ayahCard = document.querySelector(".ayah-card");
 const ayah = document.querySelector(".ayah");
 const urdu = document.querySelector(".urdu");
 const english = document.querySelector(".english");
@@ -74,9 +76,16 @@ function showAyah(mood){
     body.classList.toggle("active-popup");
 }
 
-closePopup.addEventListener("click", ()=>{
+closePopup.addEventListener("click", (event)=>{
+    event.stopPropagation();
     console.log("cloce clicked")
     // boxContainer.classList.toggle("hidden");
     ayahPage.classList.toggle("hidden");
     body.classList.toggle("active-popup");
 })
+
+ayahPage.addEventListener("click", (event) => {
+    event.stopPropagation();
+    ayahPage.classList.toggle("hidden");
+    body.classList.toggle("active-popup");
+});
