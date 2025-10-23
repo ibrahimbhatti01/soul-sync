@@ -6,30 +6,48 @@
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="">
     <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
 
     <header>
         <nav></nav>
     </header>
-    <body>
-        <div class="container">
+    <main>
+        <div class="box-container">
             <div class="upper-row">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
+                <div class="box sad">Sadness / Low mood</div>
+                <div class="box anxiety">Anxiety / Excessive worry</div>
+                <div class="box irritability">Irritability / Anger bursts</div>
+                <div class="box lability">Emotional lability / rapid mood swings</div>
+                <div class="box apathy">Apathy / Lack of motivation</div>
             </div>
             <div class="lower-row">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
+                <div class="box hopeless">Hopelessness / Despair</div>
+                <div class="box overwhelm">Overwhelm / Acute stress</div>
+                <div class="box loneliness">Loneliness / Social withdrawal</div>
+                <div class="box guilt">Guilt / Shame</div>
+                <div class="box numbness">Emotional numbness / emptiness</div>
             </div>
         </div>
-    </body>
+
+        <div class="blur-overlay"></div>
+
+        <!-- Minimal Ayah page preview (hidden by default) -->
+        <div class="ayah-page hidden" id="ayahPage">
+            <div class="ayah-card" role="dialog" aria-modal="true" aria-labelledby="ayahLabel">
+                <button class="ayah-close">×</button>
+                <div class="ayah-meta">
+                    <div id="ayahLabel">Surah 94:5</div>
+                    <div>Added: 2025-10-22</div>
+                </div>
+                <div class="ayah-arabic ayah">فَإِنَّ مَعَ الْعُسْرِ يُسْرًا</div>
+                <div class="ayah-transliteration roman">Fa‑inna maʿa al‑ʿusri yusran</div>
+                <div class="ayah-translation english">So indeed, with hardship comes ease. — Sahih International</div>
+                <div class="ayah-translation urdu">اللہ نے ہمارے لئے</div>
+                <div class="ayah-tafsir tafsir">This short tafsir snippet reassures that every difficulty is accompanied by relief and highlights the promise of gradual easing after trials.</div>
+            </div>
+        </div>
+    </main>
     <footer></footer>
 
     <script src="app.js"></script>

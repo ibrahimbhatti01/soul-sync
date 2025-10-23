@@ -401,7 +401,7 @@
         "license": "Check translator license"
       }
     ],
-    "emotional_lability": [
+    "lability": [
       {
         "id": "57:23_v1",
         "surah": 57,
@@ -663,7 +663,7 @@
         "license": "Check translator license"
       }
     ],
-    "hopelessness": [
+    "hopeless": [
       {
         "id": "93:3_v1",
         "surah": 93,
@@ -1041,7 +1041,7 @@
         "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
         }
     ],
-    "guilt_shame": [
+    "guilt": [
     {
       "id": "39:53_v1",
       "surah": 39,
@@ -1172,7 +1172,7 @@
       "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
     }
   ],
-    "emotional_numbness": [
+    "numbness": [
     {
       "id": "13:28_v1",
       "surah": 13,
