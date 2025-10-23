@@ -32,7 +32,7 @@
         "suitability_notes": "Highly suitable as an immediate comforting reminder for sadness/low mood; safe to display with short tafsir link.",
         "added_by": "curator_01",
         "date_added": "2025-10-22T00:00:00Z",
-        "license": "Check translator's license"
+        "license": "Check translator license"
       },
 
       {
@@ -58,7 +58,7 @@
         "suitability_notes": "Strongly suitable for low-mood and helplessness; include the tafsir link because the verse sits in a supplication context.",
         "added_by": "curator_01",
         "date_added": "2025-10-22T00:00:00Z",
-        "license": "Check translator's license"
+        "license": "Check translator license"
       },
 
       {
@@ -84,7 +84,7 @@
         "suitability_notes": "Very suitable for sadness tied to guilt/shame; include tafsir link and a short prompt encouraging reading full context for repentance guidance.",
         "added_by": "curator_01",
         "date_added": "2025-10-22T00:00:00Z",
-        "license": "Check translator's license"
+        "license": "Check translator license"
       },
 
       {
@@ -787,14 +787,23 @@
         "key": "20:25",
         "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي",
         "transliteration": "Rabbi ishrah li sadri",
-        "translation_en_paraphrase": "My Lord — expand my chest for me (calm and make my mind easy).",
-        "translation_ur_paraphrase": "اے میرے رب! میرے سینے کو کشادہ کر دے (میرے دل کو اطمینان دے).",
+        "translation_en": {
+          "text": "My Lord — expand my chest for me (calm and make my mind easy).",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "اے میرے رب! میرے سینے کو کشادہ کر دے (میرے دل کو اطمینان دے).",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
         "short_context": "Moses’ supplication asking God to relieve tension and grant composure — a concise, immediate prayer for mental relief under pressure.",
         "tafsir_snippet": "Classical tafsirs present this as Musa’s request for inner calm and patience before speaking to Pharaoh; scholars cite it as a model supplication for relieving anxiety and cognitive tightness.",
         "tafsir_link": "https://quran.com/20/25/tafsirs",
         "audio_url": null,
-        "tags": ["supplication","calm","relief","focus"],
-        "suitability_notes": "High value for acute cognitive tension and overwhelm; show with a 60-second grounding exercise prompt and the tafsir link for context. Encourage stepping away and breathing before acting."
+        "tags": ["supplication", "calm", "relief", "focus"],
+        "suitability_notes": "High value for acute cognitive tension and overwhelm; show with a 60-second grounding exercise prompt and the tafsir link for context. Encourage stepping away and breathing before acting.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
       },
 
       {
@@ -804,14 +813,23 @@
         "key": "2:155",
         "arabic": "وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ",
         "transliteration": "Wa lanabluwannakum bishay'in minal-khawfi wal-ju'i wa naqsin minal-amwali wal-anfusi wath-thamarat; wa bashshir as-sabirin",
-        "translation_en_paraphrase": "We will surely test you with some fear, hunger, loss of wealth, life or produce — give good news to those who patiently persevere.",
-        "translation_ur_paraphrase": "ہم تم کو کچھ خوف، قحط، مال و زندگی اور پیداوار کے نقصان سے آزمانے والے ہیں۔ تو صبر کرنے والوں کو خوشخبری پہنچاؤ۔",
+        "translation_en": {
+          "text": "We will surely test you with some fear, hunger, loss of wealth, life or produce — give good news to those who patiently persevere.",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "ہم تم کو کچھ خوف، قحط، مال و زندگی اور پیداوار کے نقصان سے آزمانے والے ہیں۔ تو صبر کرنے والوں کو خوشخبری پہنچاؤ۔",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
         "short_context": "A clear statement that trials (including fear and loss) are part of life’s tests — frames overwhelm as a test and points to patience as the constructive stance.",
         "tafsir_snippet": "Tafsir explains this verse as a broad teaching: trials are expected, and patience (sabr) is the prescribed response; understanding trials as tests helps reframe stress and reduce catastrophic interpretation.",
         "tafsir_link": "https://quran.com/2/155/tafsirs",
         "audio_url": null,
-        "tags": ["trial","patience","reframe","stress-response"],
-        "suitability_notes": "Suitable when overwhelm feels like permanent collapse — show with perspective reframing and concrete coping steps (prioritize, small wins). Include mental-health resource suggestions for severe chronic stress."
+        "tags": ["trial", "patience", "reframe", "stress-response"],
+        "suitability_notes": "Suitable when overwhelm feels like permanent collapse — show with perspective reframing and concrete coping steps (prioritize, small wins). Include mental-health resource suggestions for severe chronic stress.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
       },
 
       {
@@ -821,14 +839,23 @@
         "key": "7:205",
         "arabic": "وَاذْكُر رَّبَّكَ فِي نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ الْجَهْرِ مِنَ الْقَوْلِ بِالْغُدَوَةِ وَالْآصَالِ وَلَا تَكُن مِّنَ الْغَافِلِينَ",
         "transliteration": "Wa adhkur rabbaka fi nafsika tadarru'an wa khifatan wa doona al-jahri minal-qawli bil-ghuduwati wal-asal; wa la takun mina al-ghafilin",
-        "translation_en_paraphrase": "Remember your Lord quietly within yourself with humility and reverence morning and evening — and do not be among the heedless.",
-        "translation_ur_paraphrase": "اپنے رب کو دل میں عاجزی اور خشیت کے ساتھ صبح و شام یاد کرو، اور غفلت میں نہ رہو۔",
+        "translation_en": {
+          "text": "Remember your Lord quietly within yourself with humility and reverence morning and evening — and do not be among the heedless.",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "اپنے رب کو دل میں عاجزی اور خشیت کے ساتھ صبح و شام یاد کرو، اور غفلت میں نہ رہو۔",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
         "short_context": "An instruction to practice inward remembrance (dhikr) with humility — a practice that reduces cognitive overload by centering attention and calming the mind.",
         "tafsir_snippet": "Tafsir emphasizes inner dhikr as a stabilizing habit; private remembrance helps break anxious rumination and anchors attention away from spiralling worries.",
         "tafsir_link": "https://quran.com/7/205/tafsirs",
         "audio_url": null,
-        "tags": ["dhikr","mindfulness","attention","calming-practice"],
-        "suitability_notes": "Very practical for overwhelm caused by racing thoughts — pair with a short guided dhikr or breathing prompt. Warn users persistent symptoms may need professional help."
+        "tags": ["dhikr", "mindfulness", "attention", "calming-practice"],
+        "suitability_notes": "Very practical for overwhelm caused by racing thoughts — pair with a short guided dhikr or breathing prompt. Warn users persistent symptoms may need professional help.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
       },
 
       {
@@ -838,14 +865,23 @@
         "key": "29:45",
         "arabic": "اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ ۖ إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ ۗ وَلَذِكْرُ اللَّهِ أَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
         "transliteration": "Itlu ma oohiya ilayka minal kitabi wa aqim as-salata; inna as-salata tanha anil-fahsha wal-munkar; wa lidhikru Allahi akbaru; wa Allahu ya'lamu ma tasna'un",
-        "translation_en_paraphrase": "Recite what has been revealed and establish prayer — true prayer restrains immorality and wrongdoing; remembering Allah is even greater; and He knows what you do.",
-        "translation_ur_paraphrase": "جو کچھ تم پر نازل کیا گیا ہے اسے پڑھو اور نماز قائم کرو۔ نماز بے شک فحش اور برائی سے روک دیتی ہے؛ اور اللہ کی یاد سب سے بڑی ہے؛ اور اللہ جانتا ہے تم کیا کرتے ہو۔",
+        "translation_en": {
+          "text": "Recite what has been revealed and establish prayer — true prayer restrains immorality and wrongdoing; remembering Allah is even greater; and He knows what you do.",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "جو کچھ تم پر نازل کیا گیا ہے اسے پڑھو اور نماز قائم کرو۔ نماز بے شک فحش اور برائی سے روک دیتی ہے؛ اور اللہ کی یاد سب سے بڑی ہے؛ اور اللہ جانتا ہے تم کیا کرتے ہو۔",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
         "short_context": "Establishing prayer and remembrance are presented as active practices that regulate behaviour and attention — useful interventions when overwhelm disrupts routine and discipline.",
         "tafsir_snippet": "Tafsir notes prayer and dhikr operate as behavioral regulators — they restore structure, interrupt rumination, and reorient cognitive resources toward steady practice.",
         "tafsir_link": "https://quran.com/29/45/tafsirs",
         "audio_url": null,
-        "tags": ["prayer","structure","habit","attention-regulation"],
-        "suitability_notes": "Use when overwhelm breaks routines — suggest scheduling a small ritual (prayer or micro-break) and a plan for re-establishing tasks. Provide links to help resources if mental exhaustion is severe."
+        "tags": ["prayer", "structure", "habit", "attention-regulation"],
+        "suitability_notes": "Use when overwhelm breaks routines — suggest scheduling a small ritual (prayer or micro-break) and a plan for re-establishing tasks. Provide links to help resources if mental exhaustion is severe.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
       },
 
       {
@@ -855,42 +891,51 @@
         "key": "6:17",
         "arabic": "وَإِن يُمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ ۖ وَإِن يُمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
         "transliteration": "Wa in yumsaska Allahu bidhurrin fala kashifa lahu illa huwa; wa in yumsaska bikhayrin fahuwa 'ala kulli shay'in qadeer",
-        "translation_en_paraphrase": "If Allah afflicts you with harm, none can remove it except Him; and if He grants you good, He is capable of all things.",
-        "translation_ur_paraphrase": "اگر اللہ تمہیں کسی مصیبت میں مبتلا کرے تو اس کے سوا کوئی اسے دور نہیں کرسکتا؛ اور اگر وہ تمہیں خیر دے تو وہ ہر چیز پر قادر ہے۔",
+        "translation_en": {
+          "text": "If Allah afflicts you with harm, none can remove it except Him; and if He grants you good, He is capable of all things.",
+          "translator": "Dr. Mustafa Khattab (The Clear Quran)"
+        },
+        "translation_ur": {
+          "text": "اگر اللہ تمہیں کسی مصیبت میں مبتلا کرے تو اس کے سوا کوئی اسے دور نہیں کرسکتا؛ اور اگر وہ تمہیں خیر دے تو وہ ہر چیز پر قادر ہے۔",
+          "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
+        },
         "short_context": "Reminds believers that ultimate control over hardship and relief rests with God — a reframe that can reduce frantic attempts to control everything during acute stress.",
         "tafsir_snippet": "Scholars explain this as both a warning and consolation: ultimate removal of harm is with God, which encourages measured coping rather than panic. It calls for reliance combined with sensible action.",
         "tafsir_link": "https://quran.com/6/17/tafsirs",
         "audio_url": null,
-        "tags": ["divine-help","reliance","reframe","measured-coping"],
-        "suitability_notes": "Useful for overwhelm caused by trying to control uncontrollable factors — pair with a short plan: what you can control now, what you delegate, and a breathing/prayer intervention."
+        "tags": ["divine-help", "reliance", "reframe", "measured-coping"],
+        "suitability_notes": "Useful for overwhelm caused by trying to control uncontrollable factors — pair with a short plan: what you can control now, what you delegate, and a breathing/prayer intervention.",
+        "added_by": "curator_01",
+        "date_added": "2025-10-22T00:00:00Z",
+        "license": "Check translator license"
       }
     ],
     "loneliness": [
         {
-        "id": "2:186_v1",
-        "surah": 2,
-        "ayah": 186,
-        "key": "2:186",
-        "arabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا۟ بِي لَعَلَّهُمْ يَرْشُدُونَ",
-        "transliteration": "Wa-idhā sa'alaka ʿibādī ʿannī fa-innī qarībun; ujību daʿwata ad-dāʿi idhā daʿān; fal-yastajībū lī wa-alyu’minū bī laʿallahum yarshudūn",
-        "translation_en": {
-            "text": "When My servants ask you concerning Me — indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me and believe in Me that they may be guided.",
+          "id": "93:3_v1",
+          "surah": 93,
+          "ayah": 3,
+          "key": "93:3",
+          "arabic": "وَمَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+          "transliteration": "Wa mā waddaʿaka rabbuka wa mā qalā",
+          "translation_en": {
+            "text": "Your Lord has neither forsaken you nor is He displeased.",
             "translator": "Dr. Mustafa Khattab (The Clear Quran)"
-        },
-        "translation_ur": {
-            "text": "اور جب میرے بندے آپ سے میرے بارے میں سوال کریں تو کہہ دیں کہ میں نزدیک ہوں؛ جب کوئی مجھے پکارتا ہے تو میں دعا قبول کرتا ہوں۔ پس وہ میری طرف لبّیک کہیں اور مجھ پر ایمان لائیں تاکہ وہ ہدایت پائیں۔",
+          },
+          "translation_ur": {
+            "text": "تیرا رب نے نہ تجھے چھوڑا ہے اور نہ وہ تجھ سے ناراض ہوا ہے۔",
             "translator": "Dr. Israr Ahmad (Bayan-ul-Quran)"
-        },
-        "short_context": "Promises Divine nearness and immediate response to sincere calling—addresses the felt absence by affirming God’s closeness and receptivity.",
-        "tafsir_snippet": "Dr. Israr Ahmad and classical tafsirs note this verse emphasizes direct access to God (no intermediation required) and that sincere calling + responsive faith restores orientation and reduces isolation.",
-        "tafsir_link": "https://quran.com/2/186/tafsirs",
-        "audio_url": null,
-        "tags": ["divine-nearness","dua","accessibility","reassurance","help-seeking"],
-        "suitability_notes": "Use when loneliness produces silence or withdrawal — pair with a 1-minute guided dua/recall: ‘Call out, you are heard.’",
-        "added_by": "curator_ibrahim",
-        "date_added": "2025-10-23T00:00:00Z",
-        "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
-        },
+          },
+          "short_context": "A direct reassurance: God has not abandoned the Prophet — a concise comfort against feeling forsaken or rejected.",
+          "tafsir_snippet": "Classical tafsirs explain that this verse was revealed to console the Prophet after a pause in revelation; it functions as a general reassurance to believers that apparent absence of help is not abandonment.",
+          "tafsir_link": "https://quran.com/93/3/tafsirs",
+          "audio_url": null,
+          "tags": ["reassurance", "not-abandoned", "hope", "divine-presence"],
+          "suitability_notes": "Use for acute feelings of abandonment; show with a gentle prompt and link to tafsir; include mental-health resources for persistent despair.",
+          "added_by": "curator_01",
+          "date_added": "2025-10-22T00:00:00Z",
+    "license": "Check translator license"
+    },
 
         {
         "id": "50:16_v1",
@@ -915,7 +960,7 @@
         "suitability_notes": "Recommend when rumination and secret shame drive withdrawal; pair with a reflective exercise: list one truth God knows about you that comforts you.",
         "added_by": "curator_ibrahim",
         "date_added": "2025-10-23T00:00:00Z",
-        "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+  "license": "Check translator license"
         },
 
         {
@@ -941,7 +986,7 @@
         "suitability_notes": "Use when loneliness produces fear/grief—pair with a short compassionate self-message or group prayer that echoes the angelic reassurance.",
         "added_by": "curator_ibrahim",
         "date_added": "2025-10-23T00:00:00Z",
-        "license": "Check translator license (Mustafa Khattab / Israr Ahmad)"
+  "license": "Check translator license"
         },
 
         {
