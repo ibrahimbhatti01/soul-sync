@@ -109,9 +109,9 @@ main{
     align-items: center;
     justify-content: center;
     /* background: transparent; */
-    /* background-color: transparent; */
+    /* background-color: greenyellow; */
     padding: 20px;
-    z-index: 9999;
+    z-index: 100;
 }
 .ayah-card{
     /* background: var(--ayah-card-bg); */
@@ -156,6 +156,17 @@ main{
     color: var(--muted);
     margin-bottom: 10px;
 }
+
+#ayahLabel{
+    color: var(--muted);
+    text-decoration: none;
+}
+
+#ayahLabel:hover{
+    color:#222;
+    text-decoration: underline rgba(0, 0, 255, 0.362);
+}
+
 .ayah-tafsir{
     background: #fbfbfd;
     border-radius: 8px;
@@ -213,8 +224,6 @@ body.active-popup .blur-overlay {
     color:#222;
     text-decoration: underline rgba(0, 0, 255, 0.362);
 }
-
-
 
 
 .hidden{
