@@ -351,3 +351,8 @@ body.active-popup .blur-overlay {
         border-width: 0.5px; /* Thinner borders on retina */
     }
 }
+
+
+div h1{
+    padding-bottom: 20px;
+}
