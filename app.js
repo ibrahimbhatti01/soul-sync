@@ -12,64 +12,86 @@ const ayahReference = document.querySelector("#ayahLabel");
 const tafsir = document.querySelector(".tafsir");
 const closePopup = document.querySelector(".ayah-card button");
 
+const ayahRecord = {
+    sad: [],
+    anxiety: [],
+    irritability: [],
+    lability: [],
+    apathy: [],
+    hopeless: [],
+    overwhelm: [],
+    loneliness: [],
+    guilt: [],
+    numbness: []
+};
+
 (async function(){
     data =  await axios.get("./moods.json");
 })();
 
 const boxes = document.querySelectorAll(".box");
 for(box of boxes){
-    box.addEventListener("click", handleBoxClick);
+    box.addEventListener("click", function(){
+        let moodType = this.classList[1];
+        showAyah(moodType);
+    });
 }
 
-function handleBoxClick(event){
-    let moodType = this.classList[1];
-    switch (moodType){
-        case "sad":
-            showAyah(moodType);
-            break;
-        case "anxiety":
-            showAyah(moodType);
-            break;
-        case "irritability":
-            showAyah(moodType);
-            break;
-        case "lability":
-            showAyah(moodType);
-            break;
-        case "apathy":
-            showAyah(moodType);
-            break;
-        case "hopeless":
-            showAyah(moodType);
-            break;
-        case "overwhelm":
-            showAyah(moodType);
-            break;
-        case "loneliness":
-            showAyah(moodType);
-            break;
-        case "guilt":
-            showAyah(moodType);
-            break;
-        case "numbness":
-            showAyah(moodType);
-            break;
-        default:
-            console.log("is never possible");
-    }
-}
+// Dang how useless was this 😂🤣
+// function handleBoxClick(event){
+//     let moodType = this.classList[1];
+//     showAyah(moodType);
+//     console.log(this);
+
+//     // switch (moodType){
+//     //     case "sad":
+//     //         showAyah(moodType);
+//     //         break;
+//     //     case "anxiety":
+//     //         showAyah(moodType);
+//     //         break;
+//     //     case "irritability":
+//     //         showAyah(moodType);
+//     //         break;
+//     //     case "lability":
+//     //         showAyah(moodType);
+//     //         break;
+//     //     case "apathy":
+//     //         showAyah(moodType);
+//     //         break;
+//     //     case "hopeless":
+//     //         showAyah(moodType);
+//     //         break;
+//     //     case "overwhelm":
+//     //         showAyah(moodType);
+//     //         break;
+//     //     case "loneliness":
+//     //         showAyah(moodType);
+//     //         break;
+//     //     case "guilt":
+//     //         showAyah(moodType);
+//     //         break;
+//     //     case "numbness":
+//     //         showAyah(moodType);
+//     //         break;
+//     //     default:
+//     //         console.log("is never possible");
+//     // }
+// }
 
 function showAyah(mood){
-    console.log(data.data.moods[mood][0].arabic);
-    console.log(data.data.moods[mood][0].translation_ur.text);
-    console.log(data.data.moods[mood][0].translation_en.text);
+    const randAyah = genRandomAyah(mood);
 
-    ayahReference.innerHTML = `<a target="_blank" id="ayahLabel" href="https://quran.com/${data.data.moods[mood][0].surah}?startingVerse=${data.data.moods[mood][0].ayah}">Reference ${data.data.moods[mood][0].key}</a>`
-    ayah.innerText = data.data.moods[mood][0].arabic;
-    transliteration.innerText = data.data.moods[mood][0].transliteration;
-    urdu.innerText = data.data.moods[mood][0].translation_ur.text;
-    english.innerText = data.data.moods[mood][0].translation_en.text;
-    tafsir.innerHTML = `<a target="_blank" class="tafsir-link" href="${data.data.moods[mood][0].tafsir_link}">${data.data.moods[mood][0].tafsir_snippet}</a>` 
+    console.log(data.data.moods[mood][randAyah].arabic);
+    console.log(data.data.moods[mood][randAyah].translation_ur.text);
+    console.log(data.data.moods[mood][randAyah].translation_en.text);
+
+    ayahReference.innerHTML = `<a target="_blank" id="ayahLabel" href="https://quran.com/${data.data.moods[mood][randAyah].surah}?startingVerse=${data.data.moods[mood][randAyah].ayah}">Reference ${data.data.moods[mood][randAyah].key}</a>`
+    ayah.innerText = data.data.moods[mood][randAyah].arabic;
+    transliteration.innerText = data.data.moods[mood][randAyah].transliteration;
+    urdu.innerText = data.data.moods[mood][randAyah].translation_ur.text;
+    english.innerText = data.data.moods[mood][randAyah].translation_en.text;
+    tafsir.innerHTML = `<a target="_blank" class="tafsir-link" href="${data.data.moods[mood][randAyah].tafsir_link}">${data.data.moods[mood][randAyah].tafsir_snippet}</a>` 
 
     ayahPage.classList.toggle("hidden");
     body.classList.toggle("active-popup");
@@ -90,8 +112,37 @@ ayahPage.addEventListener("click", (event) => {
     }
 });
 
-// if (ayahCard) {
-//     ayahCard.addEventListener('click', (e) => {
-//         e.stopPropagation();
-//     });
+//deadly-recursive my version 😅
+// function genRandomAyah(mood){
+//     const ayah = Math.floor(Math.random()*5);
+//     if(ayahRecord[mood].length != 5){
+//         if(ayahRecord[mood].includes(ayah)){
+//             console.log("first if run;")
+//             return genRandomAyah(mood);//If we keep getting the random number that's already in the array, this could theoretically recurse infinitely
+//         }else{
+//             console.log("else inner run;")
+//             ayahRecord[mood].push(ayah);
+//             return ayah;
+//         }
+//     }else{
+//         console.log("else outer run;")
+//         ayahRecord[mood] = [];//Array is now empty
+//         // return ayah;// But 'ayah' might be a duplicate from previous calls!
+//         return genRandomAyah(mood);
+//     }
 // }
+
+//non-recursive
+function genRandomAyah(mood) {
+    if (ayahRecord[mood].length === 5) {
+        ayahRecord[mood] = []; // Reset when full
+    }
+    
+    let ayah;
+    do {
+        ayah = Math.floor(Math.random() * 5);
+    } while (ayahRecord[mood].includes(ayah));
+    
+    ayahRecord[mood].push(ayah);
+    return ayah;
+}

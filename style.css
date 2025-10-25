@@ -53,44 +53,44 @@ main{
     margin-top: 5px;
 }
 .sad{
-    background-color: #445B8C;
-    /* color: beige; */
+    background-color: #445b8c;
+    color: #ffffff;
 }
 .anxiety{
-    background-color: #A36FFF;
-    /* color: ; */
+    background-color: #a36fff;
+    color: #ffffff;
 }
 .irritability{
-    background-color: #C44B4F;
-    /* color: ; */
+    background-color: #c44b4f;
+    color: #ffffff;
 }
 .lability{
     background-color: #FF8A5C;
-    /* color: ; */
+    color: #ffffff;
 }
 .apathy{
     background-color: #9A9EA8;
-    /* color: ; */
+    color: #ffffff;
 }
 .hopeless{
     background-color: #2E3859;
-    color: rgb(163, 163, 150);
+    color: #ffffff;
 }
 .overwhelm{
     background-color: #3E6E85;
-    /* color: ; */
+    color: #ffffff;
 }
 .loneliness{
     background-color: #554971;
-    /* color: ; */
+    color: #ffffff;
 }
 .guilt{
     background-color: #704241;
-    /* color: beige; */
+    color: #ffffff;
 }
 .numbness{
     background-color: #5A5E6B;
-    /* color: ; */
+    color: #ffffff;
 }
 
 
@@ -231,4 +231,10 @@ body.active-popup .blur-overlay {
 }
 .pop-up{
     display: block !important;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
 }

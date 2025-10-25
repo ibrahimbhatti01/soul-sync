@@ -1,0 +1,353 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Crucial for responsive design */
+    user-select: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+}
+
+main {
+    height: 100vh;
+    width: 100%;
+    /* padding-bottom: 10rem;  */
+}
+
+.box-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    padding: 10px; /* Add padding for mobile */
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Changed from justify-items to justify-content */
+    width: min(90vw, 300px); /* Responsive width */
+    min-height: 150px; /* Reduced height for mobile */
+    border: 1px solid black;
+    margin: 8px;
+    padding: 20px; /* Reduced padding for mobile */
+    cursor: pointer;
+    box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    text-align: center;
+    word-wrap: break-word;
+    transition: all 0.1s ease; /* Smooth transition for hover effects */
+}
+
+.box:hover {
+    box-shadow: 1px 6px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px); /* Subtle lift effect */
+}
+
+.upper-row,
+.lower-row {
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping on smaller screens */
+    justify-content: center;
+    width: 100%;
+}
+
+.lower-row {
+    margin-top: 5px;
+}
+
+/* Emotion color classes remain the same */
+.sad{
+    background-color: #445b8c;
+    color: #ffffff;
+}
+.anxiety{
+    background-color: #a36fff;
+    color: #ffffff;
+}
+.irritability{
+    background-color: #c44b4f;
+    color: #ffffff;
+}
+.lability{
+    background-color: #FF8A5C;
+    color: #ffffff;
+}
+.apathy{
+    background-color: #9A9EA8;
+    color: #ffffff;
+}
+.hopeless{
+    background-color: #2E3859;
+    color: #ffffff;
+}
+.overwhelm{
+    background-color: #3E6E85;
+    color: #ffffff;
+}
+.loneliness{
+    background-color: #554971;
+    color: #ffffff;
+}
+.guilt{
+    background-color: #704241;
+    color: #ffffff;
+}
+.numbness{
+    background-color: #5A5E6B;
+    color: #ffffff;
+}
+
+/* Minimal Ayah page styles */
+:root {
+    --ayah-card-bg: #ffffff;
+    --ayah-backdrop: rgba(0,0,0,0.35);
+    --muted: #6b6b76;
+}
+
+.ayah-page {
+    position: fixed;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px; /* Reduced padding for mobile */
+    z-index: 100;
+}
+
+.ayah-card {
+    max-width: min(95vw, 760px); /* Responsive max-width */
+    width: 100%;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 12px 30px rgba(0,0,0,0.12);
+    background-color: rgb(237, 237, 237);
+    color: #111;
+    position: relative;
+    max-height: 90vh; /* Limit height */
+    overflow-y: auto; /* Enable scrolling if content overflows */
+}
+
+.ayah-arabic {
+    font-size: clamp(1.5rem, 4vw, 2.1rem); /* Responsive font size */
+    line-height: 1.35;
+    text-align: center;
+    margin-bottom: 12px;
+    direction: rtl;
+    font-family: 'Scheherazade', 'Amiri', serif;
+}
+
+.ayah-transliteration {
+    text-align: center;
+    color: var(--muted);
+    font-size: clamp(0.85rem, 2.5vw, 0.95rem); /* Responsive font size */
+    margin-bottom: 10px;
+}
+
+.ayah-translation {
+    color: #222;
+    font-size: clamp(0.9rem, 2.5vw, 1rem); /* Responsive font size */
+    margin-bottom: 12px;
+    line-height: 1.5;
+}
+
+.ayah-translation.urdu {
+    text-align: start;
+    direction: rtl;
+    font-family: 'Scheherazade', 'Amiri', serif;
+}
+
+.ayah-meta {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    font-size: clamp(0.75rem, 2vw, 0.85rem); /* Responsive font size */
+    color: var(--muted);
+    margin-bottom: 10px;
+    justify-content: center; /* Center on mobile */
+}
+
+#ayahLabel {
+    color: var(--muted);
+    text-decoration: none;
+}
+
+#ayahLabel:hover {
+    color: #222;
+    text-decoration: underline rgba(0, 0, 255, 0.362);
+}
+
+.ayah-tafsir {
+    background: #fbfbfd;
+    border-radius: 8px;
+    padding: 12px;
+    color: var(--muted);
+    font-size: clamp(0.85rem, 2.5vw, 0.95rem); /* Responsive font size */
+    line-height: 1.5;
+}
+
+.ayah-close {
+    position: absolute;
+    top: 10px;
+    right: 12px;
+    background: transparent;
+    border: none;
+    font-size: 1.5rem; /* Larger for mobile touch */
+    color: var(--muted);
+    cursor: pointer;
+    width: 40px; /* Larger touch target */
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body.active-popup {
+    overflow: hidden;
+}
+
+.blur-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    z-index: 99;
+    display: none;
+}
+
+body.active-popup .blur-overlay {
+    display: block;
+}
+
+.tafsir-link {
+    color: #111;
+    text-decoration: none;
+}
+
+.tafsir-link:hover {
+    color: #222;
+    text-decoration: underline rgba(0, 0, 255, 0.362);
+}
+
+.hidden {
+    display: none !important;
+}
+
+.pop-up {
+    display: block !important;
+}
+
+/* Mobile-first responsive breakpoints */
+@media (max-width: 768px) {
+    .box-container {
+        padding: 5px;
+        justify-content: flex-start; /* Start from top on mobile */
+        margin-top: 20px;
+    }
+    
+    .box {
+        width: 90vw;
+        min-height: 70px;
+        padding: 15px;
+        margin: 6px;
+    }
+    
+    .upper-row,
+    .lower-row {
+        flex-direction: column; /* Stack boxes vertically on mobile */
+        align-items: center;
+    }
+    
+    .ayah-card {
+        padding: 15px;
+        margin: 10px;
+    }
+    
+    .ayah-meta {
+        flex-direction: column;
+        align-items: center;
+        gap: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .box {
+        width: 95vw;
+        min-height: 60px;
+        padding: 12px;
+        margin: 4px;
+        font-size: 0.9rem; /* Smaller text on very small screens */
+    }
+    
+    .ayah-card {
+        padding: 12px;
+    }
+    
+    .ayah-arabic {
+        font-size: 1.3rem;
+        line-height: 1.4;
+    }
+    
+    .ayah-close {
+        top: 5px;
+        right: 8px;
+        width: 35px;
+        height: 35px;
+    }
+}
+
+/* Tablet styles */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .box {
+        width: 200px;
+        min-height: 90px;
+    }
+    
+    .upper-row,
+    .lower-row {
+        flex-wrap: nowrap; /* Keep boxes in row on tablet */
+    }
+}
+
+/* Large screen styles */
+@media (min-width: 1025px) {
+    .box {
+        width: 220px;
+    }
+}
+
+/* Orientation specific styles */
+@media (max-height: 500px) and (orientation: landscape) {
+    .box-container {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .upper-row,
+    .lower-row {
+        flex-direction: row;
+        width: auto;
+    }
+    
+    .box {
+        width: 150px;
+        min-height: 60px;
+    }
+}
+
+/* High-DPI screen optimizations */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    .box {
+        border-width: 0.5px; /* Thinner borders on retina */
+    }
+}
