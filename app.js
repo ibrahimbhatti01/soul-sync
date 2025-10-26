@@ -86,15 +86,19 @@ function showAyah(mood){
     console.log(data.data.moods[mood][randAyah].translation_ur.text);
     console.log(data.data.moods[mood][randAyah].translation_en.text);
 
-    ayahReference.innerHTML = `<a target="_blank" id="ayahLabel" href="https://quran.com/${data.data.moods[mood][randAyah].surah}?startingVerse=${data.data.moods[mood][randAyah].ayah}">Reference ${data.data.moods[mood][randAyah].key}</a>`
-    ayah.innerText = data.data.moods[mood][randAyah].arabic;
-    transliteration.innerText = data.data.moods[mood][randAyah].transliteration;
-    urdu.innerText = data.data.moods[mood][randAyah].translation_ur.text;
-    english.innerText = data.data.moods[mood][randAyah].translation_en.text;
-    tafsir.innerHTML = `<a target="_blank" class="tafsir-link" href="${data.data.moods[mood][randAyah].tafsir_link}">${data.data.moods[mood][randAyah].tafsir_snippet}</a>` 
+    showAyahPopup(mood, randAyah);
 
     ayahPage.classList.toggle("hidden");
     body.classList.toggle("active-popup");
+}
+
+function showAyahPopup(mood, ayahId){
+    ayahReference.innerHTML = `<a target="_blank" id="ayahLabel" href="https://quran.com/${data.data.moods[mood][ayahId].surah}?startingVerse=${data.data.moods[mood][ayahId].ayah}">Reference ${data.data.moods[mood][ayahId].key}</a>`
+    ayah.innerText = data.data.moods[mood][ayahId].arabic;
+    transliteration.innerText = data.data.moods[mood][ayahId].transliteration;
+    urdu.innerText = data.data.moods[mood][ayahId].translation_ur.text;
+    english.innerText = data.data.moods[mood][ayahId].translation_en.text;
+    tafsir.innerHTML = `<a target="_blank" class="tafsir-link" href="${data.data.moods[mood][ayahId].tafsir_link}">${data.data.moods[mood][ayahId].tafsir_snippet}</a>` 
 }
 
 closePopup.addEventListener("click", (event)=>{
