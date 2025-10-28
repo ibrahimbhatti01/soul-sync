@@ -1,4 +1,4 @@
-let data;
+let data = null;
 const body = document.querySelector("body");
 const boxContainer = document.querySelector(".box-container");
 const blurOverlay = document.querySelector(".blur-overlay");
@@ -26,7 +26,12 @@ const ayahRecord = {
 };
 
 (async function(){
-    data =  await axios.get("./moods.json");
+    try{
+        data =  await axios.get("./moods.json");
+    }catch(error){
+        console.log("error detected in fetching data.");
+    }
+    
 })();
 
 const boxes = document.querySelectorAll(".box");
@@ -42,7 +47,6 @@ for(box of boxes){
 //     let moodType = this.classList[1];
 //     showAyah(moodType);
 //     console.log(this);
-
 //     // switch (moodType){
 //     //     case "sad":
 //     //         showAyah(moodType);
